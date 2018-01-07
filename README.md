@@ -1,6 +1,8 @@
 # Four Degrees of Freedom Robotic Arm
 ## Gesture Controlled Four Degrees of Freedom Robotic Arm
 
+## Dev Branch
+
 ### Introduction
 This project comprises of a four degrees of freedom robotic arm, that is controlled by human gestures.
 
@@ -78,6 +80,7 @@ This project was developed from an existing [Instructable](http://www.instructab
 - Added a data logger which creates .txt file to store the data of a given user.
 - Formatted the data logger, removed the Recording Number tab.
 - New "dev" branch to be added.
+- (DEV) Trying to decode COM signals obtained from Processing.
 
 ##### Note:
 The older version of the repository was deleted due to a lot of unresolved merging issues. This repository will be updated henceforth.
