@@ -77,3 +77,7 @@ This project was developed from an existing [Instructable](http://www.instructab
 #### 01/07/2017
 - Added a data logger which creates .txt file to store the data of a given user.
 - Formatted the data logger, removed the Recording Number tab.
+- New "dev" branch to be added.
+
+##### Note:
+The older version of the repository was deleted due to a lot of unresolved mergin issues. This repository will be updated henceforth.
