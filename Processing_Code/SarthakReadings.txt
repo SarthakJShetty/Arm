@@ -1,812 +1,521 @@
-Right Shoulder Angle:	348	 Right Elbow Angle:	77	Base Rotation Angle:	159
-Right Shoulder Angle:	348	 Right Elbow Angle:	93	Base Rotation Angle:	161
-Right Shoulder Angle:	324	 Right Elbow Angle:	136	Base Rotation Angle:	159
-Right Shoulder Angle:	309	 Right Elbow Angle:	175	Base Rotation Angle:	156
-Right Shoulder Angle:	301	 Right Elbow Angle:	171	Base Rotation Angle:	156
-Right Shoulder Angle:	297	 Right Elbow Angle:	176	Base Rotation Angle:	156
-Right Shoulder Angle:	299	 Right Elbow Angle:	177	Base Rotation Angle:	160
-Right Shoulder Angle:	297	 Right Elbow Angle:	169	Base Rotation Angle:	159
-Right Shoulder Angle:	297	 Right Elbow Angle:	163	Base Rotation Angle:	161
-Right Shoulder Angle:	298	 Right Elbow Angle:	158	Base Rotation Angle:	161
-Right Shoulder Angle:	299	 Right Elbow Angle:	160	Base Rotation Angle:	161
-Right Shoulder Angle:	299	 Right Elbow Angle:	156	Base Rotation Angle:	160
-Right Shoulder Angle:	299	 Right Elbow Angle:	155	Base Rotation Angle:	160
-Right Shoulder Angle:	300	 Right Elbow Angle:	157	Base Rotation Angle:	160
-Right Shoulder Angle:	300	 Right Elbow Angle:	157	Base Rotation Angle:	161
-Right Shoulder Angle:	300	 Right Elbow Angle:	153	Base Rotation Angle:	162
-Right Shoulder Angle:	303	 Right Elbow Angle:	146	Base Rotation Angle:	161
-Right Shoulder Angle:	301	 Right Elbow Angle:	148	Base Rotation Angle:	160
-Right Shoulder Angle:	302	 Right Elbow Angle:	149	Base Rotation Angle:	156
-Right Shoulder Angle:	302	 Right Elbow Angle:	150	Base Rotation Angle:	138
-Right Shoulder Angle:	304	 Right Elbow Angle:	150	Base Rotation Angle:	120
-Right Shoulder Angle:	305	 Right Elbow Angle:	152	Base Rotation Angle:	111
-Right Shoulder Angle:	304	 Right Elbow Angle:	155	Base Rotation Angle:	101
-Right Shoulder Angle:	305	 Right Elbow Angle:	157	Base Rotation Angle:	93
-Right Shoulder Angle:	303	 Right Elbow Angle:	155	Base Rotation Angle:	96
-Right Shoulder Angle:	311	 Right Elbow Angle:	152	Base Rotation Angle:	97
-Right Shoulder Angle:	308	 Right Elbow Angle:	152	Base Rotation Angle:	105
-Right Shoulder Angle:	305	 Right Elbow Angle:	152	Base Rotation Angle:	119
-Right Shoulder Angle:	304	 Right Elbow Angle:	154	Base Rotation Angle:	150
-Right Shoulder Angle:	304	 Right Elbow Angle:	160	Base Rotation Angle:	155
-Right Shoulder Angle:	301	 Right Elbow Angle:	160	Base Rotation Angle:	157
-Right Shoulder Angle:	301	 Right Elbow Angle:	167	Base Rotation Angle:	163
-Right Shoulder Angle:	300	 Right Elbow Angle:	169	Base Rotation Angle:	165
-Right Shoulder Angle:	300	 Right Elbow Angle:	176	Base Rotation Angle:	163
-Right Shoulder Angle:	293	 Right Elbow Angle:	169	Base Rotation Angle:	162
-Right Shoulder Angle:	294	 Right Elbow Angle:	174	Base Rotation Angle:	160
-Right Shoulder Angle:	298	 Right Elbow Angle:	179	Base Rotation Angle:	159
-Right Shoulder Angle:	294	 Right Elbow Angle:	170	Base Rotation Angle:	160
-Right Shoulder Angle:	295	 Right Elbow Angle:	171	Base Rotation Angle:	160
-Right Shoulder Angle:	294	 Right Elbow Angle:	160	Base Rotation Angle:	158
-Right Shoulder Angle:	294	 Right Elbow Angle:	159	Base Rotation Angle:	158
-Right Shoulder Angle:	294	 Right Elbow Angle:	156	Base Rotation Angle:	158
-Right Shoulder Angle:	294	 Right Elbow Angle:	155	Base Rotation Angle:	158
-Right Shoulder Angle:	295	 Right Elbow Angle:	155	Base Rotation Angle:	160
-Right Shoulder Angle:	296	 Right Elbow Angle:	155	Base Rotation Angle:	159
-Right Shoulder Angle:	295	 Right Elbow Angle:	152	Base Rotation Angle:	162
-Right Shoulder Angle:	295	 Right Elbow Angle:	146	Base Rotation Angle:	161
-Right Shoulder Angle:	295	 Right Elbow Angle:	142	Base Rotation Angle:	161
-Right Shoulder Angle:	296	 Right Elbow Angle:	145	Base Rotation Angle:	159
-Right Shoulder Angle:	297	 Right Elbow Angle:	140	Base Rotation Angle:	160
-Right Shoulder Angle:	304	 Right Elbow Angle:	145	Base Rotation Angle:	158
-Right Shoulder Angle:	302	 Right Elbow Angle:	154	Base Rotation Angle:	158
-Right Shoulder Angle:	302	 Right Elbow Angle:	162	Base Rotation Angle:	159
-Right Shoulder Angle:	301	 Right Elbow Angle:	164	Base Rotation Angle:	159
-Right Shoulder Angle:	300	 Right Elbow Angle:	165	Base Rotation Angle:	160
-Right Shoulder Angle:	297	 Right Elbow Angle:	172	Base Rotation Angle:	161
-Right Shoulder Angle:	298	 Right Elbow Angle:	172	Base Rotation Angle:	161
-Right Shoulder Angle:	298	 Right Elbow Angle:	167	Base Rotation Angle:	161
-Right Shoulder Angle:	306	 Right Elbow Angle:	140	Base Rotation Angle:	161
-Right Shoulder Angle:	345	 Right Elbow Angle:	81	Base Rotation Angle:	160
-Right Shoulder Angle:	369	 Right Elbow Angle:	34	Base Rotation Angle:	158
-Right Shoulder Angle:	378	 Right Elbow Angle:	20	Base Rotation Angle:	157
-Right Shoulder Angle:	383	 Right Elbow Angle:	9	Base Rotation Angle:	157
-Right Shoulder Angle:	381	 Right Elbow Angle:	9	Base Rotation Angle:	158
-Right Shoulder Angle:	378	 Right Elbow Angle:	7	Base Rotation Angle:	158
-Right Shoulder Angle:	378	 Right Elbow Angle:	7	Base Rotation Angle:	158
-Right Shoulder Angle:	378	 Right Elbow Angle:	6	Base Rotation Angle:	159
-Right Shoulder Angle:	378	 Right Elbow Angle:	6	Base Rotation Angle:	159
-Right Shoulder Angle:	378	 Right Elbow Angle:	9	Base Rotation Angle:	159
-Right Shoulder Angle:	362	 Right Elbow Angle:	50	Base Rotation Angle:	159
-Right Shoulder Angle:	356	 Right Elbow Angle:	69	Base Rotation Angle:	159
-Right Shoulder Angle:	353	 Right Elbow Angle:	96	Base Rotation Angle:	159
-Right Shoulder Angle:	321	 Right Elbow Angle:	132	Base Rotation Angle:	159
-Right Shoulder Angle:	284	 Right Elbow Angle:	168	Base Rotation Angle:	159
-Right Shoulder Angle:	298	 Right Elbow Angle:	160	Base Rotation Angle:	159
-Right Shoulder Angle:	296	 Right Elbow Angle:	169	Base Rotation Angle:	158
-Right Shoulder Angle:	302	 Right Elbow Angle:	165	Base Rotation Angle:	158
-Right Shoulder Angle:	302	 Right Elbow Angle:	167	Base Rotation Angle:	158
-Right Shoulder Angle:	303	 Right Elbow Angle:	167	Base Rotation Angle:	158
-Right Shoulder Angle:	304	 Right Elbow Angle:	166	Base Rotation Angle:	159
-Right Shoulder Angle:	305	 Right Elbow Angle:	168	Base Rotation Angle:	160
-Right Shoulder Angle:	305	 Right Elbow Angle:	167	Base Rotation Angle:	160
-Right Shoulder Angle:	291	 Right Elbow Angle:	165	Base Rotation Angle:	161
-Right Shoulder Angle:	307	 Right Elbow Angle:	144	Base Rotation Angle:	160
-Right Shoulder Angle:	337	 Right Elbow Angle:	117	Base Rotation Angle:	158
-Right Shoulder Angle:	347	 Right Elbow Angle:	91	Base Rotation Angle:	160
-Right Shoulder Angle:	366	 Right Elbow Angle:	57	Base Rotation Angle:	159
-Right Shoulder Angle:	367	 Right Elbow Angle:	44	Base Rotation Angle:	160
-Right Shoulder Angle:	367	 Right Elbow Angle:	35	Base Rotation Angle:	159
-Right Shoulder Angle:	367	 Right Elbow Angle:	38	Base Rotation Angle:	159
-Right Shoulder Angle:	363	 Right Elbow Angle:	53	Base Rotation Angle:	159
-Right Shoulder Angle:	346	 Right Elbow Angle:	89	Base Rotation Angle:	158
-Right Shoulder Angle:	345	 Right Elbow Angle:	104	Base Rotation Angle:	158
-Right Shoulder Angle:	311	 Right Elbow Angle:	139	Base Rotation Angle:	159
-Right Shoulder Angle:	313	 Right Elbow Angle:	160	Base Rotation Angle:	159
-Right Shoulder Angle:	312	 Right Elbow Angle:	165	Base Rotation Angle:	159
-Right Shoulder Angle:	310	 Right Elbow Angle:	164	Base Rotation Angle:	159
-Right Shoulder Angle:	307	 Right Elbow Angle:	166	Base Rotation Angle:	160
-Right Shoulder Angle:	305	 Right Elbow Angle:	167	Base Rotation Angle:	160
-Right Shoulder Angle:	307	 Right Elbow Angle:	167	Base Rotation Angle:	157
-Right Shoulder Angle:	306	 Right Elbow Angle:	155	Base Rotation Angle:	153
-Right Shoulder Angle:	306	 Right Elbow Angle:	164	Base Rotation Angle:	145
-Right Shoulder Angle:	307	 Right Elbow Angle:	155	Base Rotation Angle:	138
-Right Shoulder Angle:	308	 Right Elbow Angle:	154	Base Rotation Angle:	109
-Right Shoulder Angle:	310	 Right Elbow Angle:	154	Base Rotation Angle:	102
-Right Shoulder Angle:	310	 Right Elbow Angle:	153	Base Rotation Angle:	80
-Right Shoulder Angle:	305	 Right Elbow Angle:	154	Base Rotation Angle:	78
-Right Shoulder Angle:	304	 Right Elbow Angle:	154	Base Rotation Angle:	71
-Right Shoulder Angle:	304	 Right Elbow Angle:	154	Base Rotation Angle:	70
-Right Shoulder Angle:	303	 Right Elbow Angle:	154	Base Rotation Angle:	69
-Right Shoulder Angle:	304	 Right Elbow Angle:	154	Base Rotation Angle:	73
-Right Shoulder Angle:	304	 Right Elbow Angle:	154	Base Rotation Angle:	79
-Right Shoulder Angle:	305	 Right Elbow Angle:	164	Base Rotation Angle:	82
-Right Shoulder Angle:	305	 Right Elbow Angle:	160	Base Rotation Angle:	112
-Right Shoulder Angle:	306	 Right Elbow Angle:	159	Base Rotation Angle:	124
-Right Shoulder Angle:	306	 Right Elbow Angle:	159	Base Rotation Angle:	142
-Right Shoulder Angle:	306	 Right Elbow Angle:	168	Base Rotation Angle:	147
-Right Shoulder Angle:	305	 Right Elbow Angle:	170	Base Rotation Angle:	154
-Right Shoulder Angle:	304	 Right Elbow Angle:	176	Base Rotation Angle:	161
-Right Shoulder Angle:	304	 Right Elbow Angle:	170	Base Rotation Angle:	162
-Right Shoulder Angle:	303	 Right Elbow Angle:	171	Base Rotation Angle:	161
-Right Shoulder Angle:	302	 Right Elbow Angle:	172	Base Rotation Angle:	163
-Right Shoulder Angle:	302	 Right Elbow Angle:	164	Base Rotation Angle:	163
-Right Shoulder Angle:	301	 Right Elbow Angle:	172	Base Rotation Angle:	164
-Right Shoulder Angle:	301	 Right Elbow Angle:	173	Base Rotation Angle:	163
-Right Shoulder Angle:	301	 Right Elbow Angle:	168	Base Rotation Angle:	163
-Right Shoulder Angle:	301	 Right Elbow Angle:	168	Base Rotation Angle:	163
-Right Shoulder Angle:	301	 Right Elbow Angle:	167	Base Rotation Angle:	163
-Right Shoulder Angle:	300	 Right Elbow Angle:	167	Base Rotation Angle:	163
-Right Shoulder Angle:	300	 Right Elbow Angle:	167	Base Rotation Angle:	162
-Right Shoulder Angle:	306	 Right Elbow Angle:	159	Base Rotation Angle:	162
-Right Shoulder Angle:	319	 Right Elbow Angle:	126	Base Rotation Angle:	159
-Right Shoulder Angle:	345	 Right Elbow Angle:	87	Base Rotation Angle:	160
-Right Shoulder Angle:	350	 Right Elbow Angle:	66	Base Rotation Angle:	158
-Right Shoulder Angle:	353	 Right Elbow Angle:	53	Base Rotation Angle:	157
-Right Shoulder Angle:	360	 Right Elbow Angle:	48	Base Rotation Angle:	158
-Right Shoulder Angle:	357	 Right Elbow Angle:	52	Base Rotation Angle:	160
-Right Shoulder Angle:	352	 Right Elbow Angle:	63	Base Rotation Angle:	160
-Right Shoulder Angle:	340	 Right Elbow Angle:	75	Base Rotation Angle:	160
-Right Shoulder Angle:	335	 Right Elbow Angle:	85	Base Rotation Angle:	159
-Right Shoulder Angle:	329	 Right Elbow Angle:	102	Base Rotation Angle:	158
-Right Shoulder Angle:	322	 Right Elbow Angle:	120	Base Rotation Angle:	157
-Right Shoulder Angle:	315	 Right Elbow Angle:	136	Base Rotation Angle:	160
-Right Shoulder Angle:	311	 Right Elbow Angle:	156	Base Rotation Angle:	159
-Right Shoulder Angle:	307	 Right Elbow Angle:	154	Base Rotation Angle:	159
-Right Shoulder Angle:	304	 Right Elbow Angle:	153	Base Rotation Angle:	160
-Right Shoulder Angle:	306	 Right Elbow Angle:	159	Base Rotation Angle:	159
-Right Shoulder Angle:	304	 Right Elbow Angle:	147	Base Rotation Angle:	159
-Right Shoulder Angle:	297	 Right Elbow Angle:	159	Base Rotation Angle:	159
-Right Shoulder Angle:	294	 Right Elbow Angle:	170	Base Rotation Angle:	159
-Right Shoulder Angle:	299	 Right Elbow Angle:	17	Base Rotation Angle:	155
-Right Shoulder Angle:	272	 Right Elbow Angle:	2	Base Rotation Angle:	163
-Right Shoulder Angle:	312	 Right Elbow Angle:	3	Base Rotation Angle:	179
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	313	 Right Elbow Angle:	64	Base Rotation Angle:	170
-Right Shoulder Angle:	326	 Right Elbow Angle:	137	Base Rotation Angle:	158
-Right Shoulder Angle:	310	 Right Elbow Angle:	145	Base Rotation Angle:	159
-Right Shoulder Angle:	308	 Right Elbow Angle:	148	Base Rotation Angle:	159
-Right Shoulder Angle:	301	 Right Elbow Angle:	151	Base Rotation Angle:	160
-Right Shoulder Angle:	302	 Right Elbow Angle:	151	Base Rotation Angle:	155
-Right Shoulder Angle:	302	 Right Elbow Angle:	160	Base Rotation Angle:	147
-Right Shoulder Angle:	302	 Right Elbow Angle:	148	Base Rotation Angle:	141
-Right Shoulder Angle:	303	 Right Elbow Angle:	149	Base Rotation Angle:	134
-Right Shoulder Angle:	303	 Right Elbow Angle:	150	Base Rotation Angle:	131
-Right Shoulder Angle:	301	 Right Elbow Angle:	149	Base Rotation Angle:	132
-Right Shoulder Angle:	301	 Right Elbow Angle:	149	Base Rotation Angle:	131
-Right Shoulder Angle:	328	 Right Elbow Angle:	122	Base Rotation Angle:	132
-Right Shoulder Angle:	364	 Right Elbow Angle:	75	Base Rotation Angle:	140
-Right Shoulder Angle:	370	 Right Elbow Angle:	50	Base Rotation Angle:	146
-Right Shoulder Angle:	388	 Right Elbow Angle:	16	Base Rotation Angle:	152
-Right Shoulder Angle:	382	 Right Elbow Angle:	13	Base Rotation Angle:	154
-Right Shoulder Angle:	381	 Right Elbow Angle:	15	Base Rotation Angle:	157
-Right Shoulder Angle:	380	 Right Elbow Angle:	14	Base Rotation Angle:	158
-Right Shoulder Angle:	380	 Right Elbow Angle:	11	Base Rotation Angle:	158
-Right Shoulder Angle:	379	 Right Elbow Angle:	12	Base Rotation Angle:	158
-Right Shoulder Angle:	372	 Right Elbow Angle:	27	Base Rotation Angle:	156
-Right Shoulder Angle:	370	 Right Elbow Angle:	40	Base Rotation Angle:	157
-Right Shoulder Angle:	366	 Right Elbow Angle:	55	Base Rotation Angle:	157
-Right Shoulder Angle:	361	 Right Elbow Angle:	75	Base Rotation Angle:	157
-Right Shoulder Angle:	352	 Right Elbow Angle:	92	Base Rotation Angle:	160
-Right Shoulder Angle:	318	 Right Elbow Angle:	126	Base Rotation Angle:	159
-Right Shoulder Angle:	314	 Right Elbow Angle:	141	Base Rotation Angle:	159
-Right Shoulder Angle:	306	 Right Elbow Angle:	157	Base Rotation Angle:	159
-Right Shoulder Angle:	300	 Right Elbow Angle:	166	Base Rotation Angle:	159
-Right Shoulder Angle:	300	 Right Elbow Angle:	169	Base Rotation Angle:	159
-Right Shoulder Angle:	298	 Right Elbow Angle:	157	Base Rotation Angle:	159
-Right Shoulder Angle:	298	 Right Elbow Angle:	174	Base Rotation Angle:	159
-Right Shoulder Angle:	299	 Right Elbow Angle:	170	Base Rotation Angle:	159
-Right Shoulder Angle:	298	 Right Elbow Angle:	171	Base Rotation Angle:	159
-Right Shoulder Angle:	299	 Right Elbow Angle:	161	Base Rotation Angle:	159
-Right Shoulder Angle:	299	 Right Elbow Angle:	151	Base Rotation Angle:	159
-Right Shoulder Angle:	306	 Right Elbow Angle:	130	Base Rotation Angle:	159
-Right Shoulder Angle:	334	 Right Elbow Angle:	104	Base Rotation Angle:	159
-Right Shoulder Angle:	346	 Right Elbow Angle:	74	Base Rotation Angle:	159
-Right Shoulder Angle:	356	 Right Elbow Angle:	52	Base Rotation Angle:	159
-Right Shoulder Angle:	365	 Right Elbow Angle:	33	Base Rotation Angle:	159
-Right Shoulder Angle:	370	 Right Elbow Angle:	23	Base Rotation Angle:	159
-Right Shoulder Angle:	370	 Right Elbow Angle:	21	Base Rotation Angle:	156
-Right Shoulder Angle:	371	 Right Elbow Angle:	19	Base Rotation Angle:	157
-Right Shoulder Angle:	370	 Right Elbow Angle:	19	Base Rotation Angle:	156
-Right Shoulder Angle:	371	 Right Elbow Angle:	17	Base Rotation Angle:	159
-Right Shoulder Angle:	370	 Right Elbow Angle:	17	Base Rotation Angle:	158
-Right Shoulder Angle:	370	 Right Elbow Angle:	17	Base Rotation Angle:	157
-Right Shoulder Angle:	371	 Right Elbow Angle:	23	Base Rotation Angle:	157
-Right Shoulder Angle:	368	 Right Elbow Angle:	53	Base Rotation Angle:	157
-Right Shoulder Angle:	363	 Right Elbow Angle:	78	Base Rotation Angle:	157
-Right Shoulder Angle:	334	 Right Elbow Angle:	113	Base Rotation Angle:	158
-Right Shoulder Angle:	322	 Right Elbow Angle:	134	Base Rotation Angle:	158
-Right Shoulder Angle:	311	 Right Elbow Angle:	155	Base Rotation Angle:	158
-Right Shoulder Angle:	306	 Right Elbow Angle:	161	Base Rotation Angle:	158
-Right Shoulder Angle:	303	 Right Elbow Angle:	167	Base Rotation Angle:	159
-Right Shoulder Angle:	303	 Right Elbow Angle:	162	Base Rotation Angle:	159
-Right Shoulder Angle:	301	 Right Elbow Angle:	165	Base Rotation Angle:	159
-Right Shoulder Angle:	300	 Right Elbow Angle:	167	Base Rotation Angle:	159
-Right Shoulder Angle:	300	 Right Elbow Angle:	166	Base Rotation Angle:	159
-Right Shoulder Angle:	300	 Right Elbow Angle:	165	Base Rotation Angle:	160
-Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	153
-Right Shoulder Angle:	301	 Right Elbow Angle:	170	Base Rotation Angle:	149
-Right Shoulder Angle:	299	 Right Elbow Angle:	170	Base Rotation Angle:	139
-Right Shoulder Angle:	323	 Right Elbow Angle:	170	Base Rotation Angle:	119
-Right Shoulder Angle:	316	 Right Elbow Angle:	166	Base Rotation Angle:	95
-Right Shoulder Angle:	315	 Right Elbow Angle:	168	Base Rotation Angle:	83
-Right Shoulder Angle:	309	 Right Elbow Angle:	167	Base Rotation Angle:	82
-Right Shoulder Angle:	304	 Right Elbow Angle:	164	Base Rotation Angle:	83
-Right Shoulder Angle:	302	 Right Elbow Angle:	165	Base Rotation Angle:	81
-Right Shoulder Angle:	301	 Right Elbow Angle:	165	Base Rotation Angle:	80
-Right Shoulder Angle:	302	 Right Elbow Angle:	164	Base Rotation Angle:	85
-Right Shoulder Angle:	302	 Right Elbow Angle:	163	Base Rotation Angle:	93
-Right Shoulder Angle:	303	 Right Elbow Angle:	164	Base Rotation Angle:	125
-Right Shoulder Angle:	302	 Right Elbow Angle:	169	Base Rotation Angle:	146
-Right Shoulder Angle:	301	 Right Elbow Angle:	167	Base Rotation Angle:	153
-Right Shoulder Angle:	301	 Right Elbow Angle:	171	Base Rotation Angle:	159
-Right Shoulder Angle:	301	 Right Elbow Angle:	172	Base Rotation Angle:	161
-Right Shoulder Angle:	301	 Right Elbow Angle:	133	Base Rotation Angle:	163
-Right Shoulder Angle:	301	 Right Elbow Angle:	142	Base Rotation Angle:	163
-Right Shoulder Angle:	300	 Right Elbow Angle:	149	Base Rotation Angle:	163
-Right Shoulder Angle:	300	 Right Elbow Angle:	169	Base Rotation Angle:	163
-Right Shoulder Angle:	300	 Right Elbow Angle:	166	Base Rotation Angle:	162
-Right Shoulder Angle:	301	 Right Elbow Angle:	154	Base Rotation Angle:	162
-Right Shoulder Angle:	312	 Right Elbow Angle:	132	Base Rotation Angle:	162
-Right Shoulder Angle:	347	 Right Elbow Angle:	95	Base Rotation Angle:	162
-Right Shoulder Angle:	348	 Right Elbow Angle:	78	Base Rotation Angle:	162
-Right Shoulder Angle:	351	 Right Elbow Angle:	67	Base Rotation Angle:	162
-Right Shoulder Angle:	349	 Right Elbow Angle:	61	Base Rotation Angle:	161
-Right Shoulder Angle:	352	 Right Elbow Angle:	56	Base Rotation Angle:	161
-Right Shoulder Angle:	355	 Right Elbow Angle:	49	Base Rotation Angle:	160
-Right Shoulder Angle:	358	 Right Elbow Angle:	44	Base Rotation Angle:	161
-Right Shoulder Angle:	360	 Right Elbow Angle:	41	Base Rotation Angle:	160
-Right Shoulder Angle:	361	 Right Elbow Angle:	37	Base Rotation Angle:	160
-Right Shoulder Angle:	369	 Right Elbow Angle:	20	Base Rotation Angle:	160
-Right Shoulder Angle:	370	 Right Elbow Angle:	14	Base Rotation Angle:	161
-Right Shoulder Angle:	374	 Right Elbow Angle:	8	Base Rotation Angle:	160
-Right Shoulder Angle:	372	 Right Elbow Angle:	10	Base Rotation Angle:	160
-Right Shoulder Angle:	371	 Right Elbow Angle:	10	Base Rotation Angle:	160
-Right Shoulder Angle:	372	 Right Elbow Angle:	10	Base Rotation Angle:	161
-Right Shoulder Angle:	367	 Right Elbow Angle:	13	Base Rotation Angle:	161
-Right Shoulder Angle:	375	 Right Elbow Angle:	7	Base Rotation Angle:	161
-Right Shoulder Angle:	382	 Right Elbow Angle:	7	Base Rotation Angle:	160
-Right Shoulder Angle:	389	 Right Elbow Angle:	7	Base Rotation Angle:	160
-Right Shoulder Angle:	388	 Right Elbow Angle:	12	Base Rotation Angle:	159
-Right Shoulder Angle:	400	 Right Elbow Angle:	3	Base Rotation Angle:	158
-Right Shoulder Angle:	396	 Right Elbow Angle:	20	Base Rotation Angle:	157
-Right Shoulder Angle:	395	 Right Elbow Angle:	22	Base Rotation Angle:	158
-Right Shoulder Angle:	393	 Right Elbow Angle:	23	Base Rotation Angle:	159
-Right Shoulder Angle:	370	 Right Elbow Angle:	59	Base Rotation Angle:	158
-Right Shoulder Angle:	371	 Right Elbow Angle:	74	Base Rotation Angle:	159
-Right Shoulder Angle:	335	 Right Elbow Angle:	118	Base Rotation Angle:	159
-Right Shoulder Angle:	324	 Right Elbow Angle:	134	Base Rotation Angle:	158
-Right Shoulder Angle:	315	 Right Elbow Angle:	137	Base Rotation Angle:	159
-Right Shoulder Angle:	310	 Right Elbow Angle:	167	Base Rotation Angle:	159
-Right Shoulder Angle:	301	 Right Elbow Angle:	109	Base Rotation Angle:	159
-Right Shoulder Angle:	296	 Right Elbow Angle:	111	Base Rotation Angle:	159
-Right Shoulder Angle:	295	 Right Elbow Angle:	166	Base Rotation Angle:	160
-Right Shoulder Angle:	294	 Right Elbow Angle:	176	Base Rotation Angle:	160
-Right Shoulder Angle:	293	 Right Elbow Angle:	174	Base Rotation Angle:	160
-Right Shoulder Angle:	294	 Right Elbow Angle:	174	Base Rotation Angle:	158
-Right Shoulder Angle:	294	 Right Elbow Angle:	168	Base Rotation Angle:	159
-Right Shoulder Angle:	294	 Right Elbow Angle:	170	Base Rotation Angle:	159
-Right Shoulder Angle:	302	 Right Elbow Angle:	145	Base Rotation Angle:	159
-Right Shoulder Angle:	312	 Right Elbow Angle:	126	Base Rotation Angle:	159
-Right Shoulder Angle:	340	 Right Elbow Angle:	92	Base Rotation Angle:	158
-Right Shoulder Angle:	344	 Right Elbow Angle:	71	Base Rotation Angle:	159
-Right Shoulder Angle:	353	 Right Elbow Angle:	51	Base Rotation Angle:	159
-Right Shoulder Angle:	362	 Right Elbow Angle:	34	Base Rotation Angle:	159
-Right Shoulder Angle:	366	 Right Elbow Angle:	24	Base Rotation Angle:	159
-Right Shoulder Angle:	368	 Right Elbow Angle:	21	Base Rotation Angle:	159
-Right Shoulder Angle:	367	 Right Elbow Angle:	21	Base Rotation Angle:	158
-Right Shoulder Angle:	374	 Right Elbow Angle:	24	Base Rotation Angle:	158
-Right Shoulder Angle:	363	 Right Elbow Angle:	52	Base Rotation Angle:	158
-Right Shoulder Angle:	355	 Right Elbow Angle:	76	Base Rotation Angle:	157
-Right Shoulder Angle:	317	 Right Elbow Angle:	115	Base Rotation Angle:	158
-Right Shoulder Angle:	303	 Right Elbow Angle:	135	Base Rotation Angle:	158
-Right Shoulder Angle:	298	 Right Elbow Angle:	145	Base Rotation Angle:	159
-Right Shoulder Angle:	295	 Right Elbow Angle:	151	Base Rotation Angle:	158
-Right Shoulder Angle:	293	 Right Elbow Angle:	155	Base Rotation Angle:	158
-Right Shoulder Angle:	296	 Right Elbow Angle:	155	Base Rotation Angle:	159
-Right Shoulder Angle:	295	 Right Elbow Angle:	150	Base Rotation Angle:	158
-Right Shoulder Angle:	294	 Right Elbow Angle:	154	Base Rotation Angle:	158
-Right Shoulder Angle:	297	 Right Elbow Angle:	156	Base Rotation Angle:	156
-Right Shoulder Angle:	296	 Right Elbow Angle:	159	Base Rotation Angle:	146
-Right Shoulder Angle:	299	 Right Elbow Angle:	158	Base Rotation Angle:	125
-Right Shoulder Angle:	300	 Right Elbow Angle:	158	Base Rotation Angle:	118
-Right Shoulder Angle:	299	 Right Elbow Angle:	157	Base Rotation Angle:	94
-Right Shoulder Angle:	299	 Right Elbow Angle:	158	Base Rotation Angle:	94
-Right Shoulder Angle:	298	 Right Elbow Angle:	156	Base Rotation Angle:	95
-Right Shoulder Angle:	302	 Right Elbow Angle:	156	Base Rotation Angle:	93
-Right Shoulder Angle:	301	 Right Elbow Angle:	176	Base Rotation Angle:	90
-Right Shoulder Angle:	300	 Right Elbow Angle:	163	Base Rotation Angle:	90
-Right Shoulder Angle:	295	 Right Elbow Angle:	159	Base Rotation Angle:	89
-Right Shoulder Angle:	297	 Right Elbow Angle:	163	Base Rotation Angle:	89
-Right Shoulder Angle:	298	 Right Elbow Angle:	165	Base Rotation Angle:	94
-Right Shoulder Angle:	303	 Right Elbow Angle:	153	Base Rotation Angle:	119
-Right Shoulder Angle:	302	 Right Elbow Angle:	169	Base Rotation Angle:	147
-Right Shoulder Angle:	301	 Right Elbow Angle:	170	Base Rotation Angle:	151
-Right Shoulder Angle:	301	 Right Elbow Angle:	117	Base Rotation Angle:	155
-Right Shoulder Angle:	301	 Right Elbow Angle:	174	Base Rotation Angle:	160
-Right Shoulder Angle:	301	 Right Elbow Angle:	175	Base Rotation Angle:	162
-Right Shoulder Angle:	300	 Right Elbow Angle:	173	Base Rotation Angle:	164
-Right Shoulder Angle:	300	 Right Elbow Angle:	175	Base Rotation Angle:	164
-Right Shoulder Angle:	300	 Right Elbow Angle:	173	Base Rotation Angle:	164
-Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	164
-Right Shoulder Angle:	300	 Right Elbow Angle:	170	Base Rotation Angle:	161
-Right Shoulder Angle:	295	 Right Elbow Angle:	167	Base Rotation Angle:	160
-Right Shoulder Angle:	296	 Right Elbow Angle:	167	Base Rotation Angle:	161
-Right Shoulder Angle:	297	 Right Elbow Angle:	168	Base Rotation Angle:	158
-Right Shoulder Angle:	298	 Right Elbow Angle:	167	Base Rotation Angle:	149
-Right Shoulder Angle:	299	 Right Elbow Angle:	167	Base Rotation Angle:	140
-Right Shoulder Angle:	299	 Right Elbow Angle:	166	Base Rotation Angle:	112
-Right Shoulder Angle:	299	 Right Elbow Angle:	166	Base Rotation Angle:	107
-Right Shoulder Angle:	299	 Right Elbow Angle:	166	Base Rotation Angle:	97
-Right Shoulder Angle:	303	 Right Elbow Angle:	166	Base Rotation Angle:	79
-Right Shoulder Angle:	302	 Right Elbow Angle:	165	Base Rotation Angle:	80
-Right Shoulder Angle:	301	 Right Elbow Angle:	170	Base Rotation Angle:	66
-Right Shoulder Angle:	302	 Right Elbow Angle:	160	Base Rotation Angle:	64
-Right Shoulder Angle:	301	 Right Elbow Angle:	162	Base Rotation Angle:	63
-Right Shoulder Angle:	300	 Right Elbow Angle:	162	Base Rotation Angle:	58
-Right Shoulder Angle:	300	 Right Elbow Angle:	163	Base Rotation Angle:	56
-Right Shoulder Angle:	302	 Right Elbow Angle:	162	Base Rotation Angle:	57
-Right Shoulder Angle:	301	 Right Elbow Angle:	162	Base Rotation Angle:	57
-Right Shoulder Angle:	300	 Right Elbow Angle:	162	Base Rotation Angle:	57
-Right Shoulder Angle:	295	 Right Elbow Angle:	153	Base Rotation Angle:	58
-Right Shoulder Angle:	297	 Right Elbow Angle:	157	Base Rotation Angle:	63
-Right Shoulder Angle:	298	 Right Elbow Angle:	170	Base Rotation Angle:	68
-Right Shoulder Angle:	299	 Right Elbow Angle:	172	Base Rotation Angle:	73
-Right Shoulder Angle:	298	 Right Elbow Angle:	171	Base Rotation Angle:	79
-Right Shoulder Angle:	298	 Right Elbow Angle:	162	Base Rotation Angle:	78
-Right Shoulder Angle:	298	 Right Elbow Angle:	161	Base Rotation Angle:	76
-Right Shoulder Angle:	298	 Right Elbow Angle:	164	Base Rotation Angle:	75
-Right Shoulder Angle:	298	 Right Elbow Angle:	161	Base Rotation Angle:	75
-Right Shoulder Angle:	299	 Right Elbow Angle:	160	Base Rotation Angle:	78
-Right Shoulder Angle:	299	 Right Elbow Angle:	168	Base Rotation Angle:	80
-Right Shoulder Angle:	299	 Right Elbow Angle:	169	Base Rotation Angle:	78
-Right Shoulder Angle:	302	 Right Elbow Angle:	164	Base Rotation Angle:	73
-Right Shoulder Angle:	301	 Right Elbow Angle:	164	Base Rotation Angle:	72
-Right Shoulder Angle:	300	 Right Elbow Angle:	164	Base Rotation Angle:	73
-Right Shoulder Angle:	297	 Right Elbow Angle:	162	Base Rotation Angle:	80
-Right Shoulder Angle:	299	 Right Elbow Angle:	166	Base Rotation Angle:	84
-Right Shoulder Angle:	300	 Right Elbow Angle:	168	Base Rotation Angle:	112
-Right Shoulder Angle:	301	 Right Elbow Angle:	166	Base Rotation Angle:	116
-Right Shoulder Angle:	306	 Right Elbow Angle:	165	Base Rotation Angle:	126
-Right Shoulder Angle:	306	 Right Elbow Angle:	162	Base Rotation Angle:	146
-Right Shoulder Angle:	305	 Right Elbow Angle:	165	Base Rotation Angle:	153
-Right Shoulder Angle:	302	 Right Elbow Angle:	170	Base Rotation Angle:	156
-Right Shoulder Angle:	302	 Right Elbow Angle:	171	Base Rotation Angle:	159
-Right Shoulder Angle:	301	 Right Elbow Angle:	169	Base Rotation Angle:	160
-Right Shoulder Angle:	299	 Right Elbow Angle:	172	Base Rotation Angle:	162
-Right Shoulder Angle:	298	 Right Elbow Angle:	167	Base Rotation Angle:	161
-Right Shoulder Angle:	298	 Right Elbow Angle:	167	Base Rotation Angle:	161
-Right Shoulder Angle:	296	 Right Elbow Angle:	167	Base Rotation Angle:	162
-Right Shoulder Angle:	296	 Right Elbow Angle:	167	Base Rotation Angle:	162
-Right Shoulder Angle:	295	 Right Elbow Angle:	178	Base Rotation Angle:	161
-Right Shoulder Angle:	295	 Right Elbow Angle:	174	Base Rotation Angle:	161
-Right Shoulder Angle:	297	 Right Elbow Angle:	167	Base Rotation Angle:	158
-Right Shoulder Angle:	297	 Right Elbow Angle:	167	Base Rotation Angle:	158
-Right Shoulder Angle:	297	 Right Elbow Angle:	168	Base Rotation Angle:	155
-Right Shoulder Angle:	297	 Right Elbow Angle:	172	Base Rotation Angle:	155
-Right Shoulder Angle:	298	 Right Elbow Angle:	171	Base Rotation Angle:	153
-Right Shoulder Angle:	298	 Right Elbow Angle:	169	Base Rotation Angle:	153
-Right Shoulder Angle:	298	 Right Elbow Angle:	169	Base Rotation Angle:	152
-Right Shoulder Angle:	298	 Right Elbow Angle:	169	Base Rotation Angle:	152
-Right Shoulder Angle:	298	 Right Elbow Angle:	169	Base Rotation Angle:	152
-Right Shoulder Angle:	297	 Right Elbow Angle:	170	Base Rotation Angle:	153
-Right Shoulder Angle:	298	 Right Elbow Angle:	168	Base Rotation Angle:	156
-Right Shoulder Angle:	298	 Right Elbow Angle:	169	Base Rotation Angle:	157
-Right Shoulder Angle:	298	 Right Elbow Angle:	168	Base Rotation Angle:	155
-Right Shoulder Angle:	298	 Right Elbow Angle:	167	Base Rotation Angle:	155
-Right Shoulder Angle:	298	 Right Elbow Angle:	166	Base Rotation Angle:	155
-Right Shoulder Angle:	299	 Right Elbow Angle:	167	Base Rotation Angle:	153
-Right Shoulder Angle:	300	 Right Elbow Angle:	157	Base Rotation Angle:	153
-Right Shoulder Angle:	301	 Right Elbow Angle:	154	Base Rotation Angle:	158
-Right Shoulder Angle:	302	 Right Elbow Angle:	139	Base Rotation Angle:	157
-Right Shoulder Angle:	314	 Right Elbow Angle:	121	Base Rotation Angle:	155
-Right Shoulder Angle:	338	 Right Elbow Angle:	101	Base Rotation Angle:	155
-Right Shoulder Angle:	348	 Right Elbow Angle:	79	Base Rotation Angle:	154
-Right Shoulder Angle:	354	 Right Elbow Angle:	58	Base Rotation Angle:	154
-Right Shoulder Angle:	358	 Right Elbow Angle:	47	Base Rotation Angle:	153
-Right Shoulder Angle:	365	 Right Elbow Angle:	32	Base Rotation Angle:	152
-Right Shoulder Angle:	371	 Right Elbow Angle:	18	Base Rotation Angle:	151
-Right Shoulder Angle:	372	 Right Elbow Angle:	14	Base Rotation Angle:	151
-Right Shoulder Angle:	370	 Right Elbow Angle:	14	Base Rotation Angle:	151
-Right Shoulder Angle:	368	 Right Elbow Angle:	14	Base Rotation Angle:	153
-Right Shoulder Angle:	368	 Right Elbow Angle:	12	Base Rotation Angle:	153
-Right Shoulder Angle:	367	 Right Elbow Angle:	11	Base Rotation Angle:	150
-Right Shoulder Angle:	367	 Right Elbow Angle:	10	Base Rotation Angle:	152
-Right Shoulder Angle:	366	 Right Elbow Angle:	10	Base Rotation Angle:	152
-Right Shoulder Angle:	366	 Right Elbow Angle:	10	Base Rotation Angle:	144
-Right Shoulder Angle:	365	 Right Elbow Angle:	11	Base Rotation Angle:	137
-Right Shoulder Angle:	366	 Right Elbow Angle:	11	Base Rotation Angle:	140
-Right Shoulder Angle:	366	 Right Elbow Angle:	11	Base Rotation Angle:	142
-Right Shoulder Angle:	365	 Right Elbow Angle:	13	Base Rotation Angle:	142
-Right Shoulder Angle:	365	 Right Elbow Angle:	13	Base Rotation Angle:	142
-Right Shoulder Angle:	364	 Right Elbow Angle:	15	Base Rotation Angle:	149
-Right Shoulder Angle:	364	 Right Elbow Angle:	15	Base Rotation Angle:	147
-Right Shoulder Angle:	364	 Right Elbow Angle:	15	Base Rotation Angle:	149
-Right Shoulder Angle:	364	 Right Elbow Angle:	15	Base Rotation Angle:	147
-Right Shoulder Angle:	364	 Right Elbow Angle:	15	Base Rotation Angle:	149
-Right Shoulder Angle:	364	 Right Elbow Angle:	16	Base Rotation Angle:	150
-Right Shoulder Angle:	363	 Right Elbow Angle:	16	Base Rotation Angle:	146
-Right Shoulder Angle:	363	 Right Elbow Angle:	17	Base Rotation Angle:	150
-Right Shoulder Angle:	364	 Right Elbow Angle:	17	Base Rotation Angle:	149
-Right Shoulder Angle:	364	 Right Elbow Angle:	18	Base Rotation Angle:	152
-Right Shoulder Angle:	365	 Right Elbow Angle:	19	Base Rotation Angle:	151
-Right Shoulder Angle:	365	 Right Elbow Angle:	20	Base Rotation Angle:	153
-Right Shoulder Angle:	365	 Right Elbow Angle:	21	Base Rotation Angle:	153
-Right Shoulder Angle:	363	 Right Elbow Angle:	22	Base Rotation Angle:	158
-Right Shoulder Angle:	366	 Right Elbow Angle:	22	Base Rotation Angle:	153
-Right Shoulder Angle:	369	 Right Elbow Angle:	31	Base Rotation Angle:	153
-Right Shoulder Angle:	359	 Right Elbow Angle:	55	Base Rotation Angle:	154
-Right Shoulder Angle:	358	 Right Elbow Angle:	73	Base Rotation Angle:	154
-Right Shoulder Angle:	349	 Right Elbow Angle:	91	Base Rotation Angle:	149
-Right Shoulder Angle:	334	 Right Elbow Angle:	113	Base Rotation Angle:	154
-Right Shoulder Angle:	325	 Right Elbow Angle:	124	Base Rotation Angle:	156
-Right Shoulder Angle:	317	 Right Elbow Angle:	135	Base Rotation Angle:	158
-Right Shoulder Angle:	308	 Right Elbow Angle:	146	Base Rotation Angle:	161
-Right Shoulder Angle:	305	 Right Elbow Angle:	151	Base Rotation Angle:	165
-Right Shoulder Angle:	305	 Right Elbow Angle:	152	Base Rotation Angle:	167
-Right Shoulder Angle:	303	 Right Elbow Angle:	153	Base Rotation Angle:	169
-Right Shoulder Angle:	302	 Right Elbow Angle:	155	Base Rotation Angle:	169
-Right Shoulder Angle:	301	 Right Elbow Angle:	156	Base Rotation Angle:	170
-Right Shoulder Angle:	301	 Right Elbow Angle:	157	Base Rotation Angle:	170
-Right Shoulder Angle:	301	 Right Elbow Angle:	157	Base Rotation Angle:	170
-Right Shoulder Angle:	301	 Right Elbow Angle:	157	Base Rotation Angle:	170
-Right Shoulder Angle:	301	 Right Elbow Angle:	157	Base Rotation Angle:	154
-Right Shoulder Angle:	300	 Right Elbow Angle:	157	Base Rotation Angle:	147
-Right Shoulder Angle:	299	 Right Elbow Angle:	157	Base Rotation Angle:	141
-Right Shoulder Angle:	299	 Right Elbow Angle:	157	Base Rotation Angle:	135
-Right Shoulder Angle:	299	 Right Elbow Angle:	157	Base Rotation Angle:	128
-Right Shoulder Angle:	300	 Right Elbow Angle:	157	Base Rotation Angle:	121
-Right Shoulder Angle:	300	 Right Elbow Angle:	158	Base Rotation Angle:	97
-Right Shoulder Angle:	301	 Right Elbow Angle:	158	Base Rotation Angle:	93
-Right Shoulder Angle:	301	 Right Elbow Angle:	159	Base Rotation Angle:	90
-Right Shoulder Angle:	301	 Right Elbow Angle:	159	Base Rotation Angle:	90
-Right Shoulder Angle:	302	 Right Elbow Angle:	158	Base Rotation Angle:	93
-Right Shoulder Angle:	303	 Right Elbow Angle:	158	Base Rotation Angle:	98
-Right Shoulder Angle:	303	 Right Elbow Angle:	158	Base Rotation Angle:	103
-Right Shoulder Angle:	302	 Right Elbow Angle:	158	Base Rotation Angle:	109
-Right Shoulder Angle:	302	 Right Elbow Angle:	158	Base Rotation Angle:	116
-Right Shoulder Angle:	300	 Right Elbow Angle:	159	Base Rotation Angle:	124
-Right Shoulder Angle:	300	 Right Elbow Angle:	159	Base Rotation Angle:	134
-Right Shoulder Angle:	300	 Right Elbow Angle:	158	Base Rotation Angle:	142
-Right Shoulder Angle:	300	 Right Elbow Angle:	156	Base Rotation Angle:	148
-Right Shoulder Angle:	303	 Right Elbow Angle:	150	Base Rotation Angle:	150
-Right Shoulder Angle:	309	 Right Elbow Angle:	139	Base Rotation Angle:	152
-Right Shoulder Angle:	316	 Right Elbow Angle:	119	Base Rotation Angle:	153
-Right Shoulder Angle:	327	 Right Elbow Angle:	91	Base Rotation Angle:	152
-Right Shoulder Angle:	331	 Right Elbow Angle:	67	Base Rotation Angle:	152
-Right Shoulder Angle:	337	 Right Elbow Angle:	44	Base Rotation Angle:	151
-Right Shoulder Angle:	341	 Right Elbow Angle:	31	Base Rotation Angle:	150
-Right Shoulder Angle:	346	 Right Elbow Angle:	22	Base Rotation Angle:	150
-Right Shoulder Angle:	349	 Right Elbow Angle:	16	Base Rotation Angle:	150
-Right Shoulder Angle:	354	 Right Elbow Angle:	10	Base Rotation Angle:	151
-Right Shoulder Angle:	357	 Right Elbow Angle:	7	Base Rotation Angle:	151
-Right Shoulder Angle:	358	 Right Elbow Angle:	5	Base Rotation Angle:	152
-Right Shoulder Angle:	358	 Right Elbow Angle:	4	Base Rotation Angle:	152
-Right Shoulder Angle:	358	 Right Elbow Angle:	4	Base Rotation Angle:	153
-Right Shoulder Angle:	360	 Right Elbow Angle:	3	Base Rotation Angle:	153
-Right Shoulder Angle:	362	 Right Elbow Angle:	4	Base Rotation Angle:	153
-Right Shoulder Angle:	365	 Right Elbow Angle:	4	Base Rotation Angle:	153
-Right Shoulder Angle:	367	 Right Elbow Angle:	4	Base Rotation Angle:	153
-Right Shoulder Angle:	370	 Right Elbow Angle:	4	Base Rotation Angle:	153
-Right Shoulder Angle:	373	 Right Elbow Angle:	4	Base Rotation Angle:	152
-Right Shoulder Angle:	377	 Right Elbow Angle:	4	Base Rotation Angle:	152
-Right Shoulder Angle:	380	 Right Elbow Angle:	5	Base Rotation Angle:	152
-Right Shoulder Angle:	382	 Right Elbow Angle:	6	Base Rotation Angle:	151
-Right Shoulder Angle:	384	 Right Elbow Angle:	6	Base Rotation Angle:	151
-Right Shoulder Angle:	387	 Right Elbow Angle:	5	Base Rotation Angle:	151
-Right Shoulder Angle:	390	 Right Elbow Angle:	4	Base Rotation Angle:	151
-Right Shoulder Angle:	393	 Right Elbow Angle:	4	Base Rotation Angle:	150
-Right Shoulder Angle:	395	 Right Elbow Angle:	4	Base Rotation Angle:	150
-Right Shoulder Angle:	396	 Right Elbow Angle:	5	Base Rotation Angle:	149
-Right Shoulder Angle:	394	 Right Elbow Angle:	7	Base Rotation Angle:	150
-Right Shoulder Angle:	392	 Right Elbow Angle:	11	Base Rotation Angle:	151
-Right Shoulder Angle:	385	 Right Elbow Angle:	23	Base Rotation Angle:	151
-Right Shoulder Angle:	376	 Right Elbow Angle:	43	Base Rotation Angle:	151
-Right Shoulder Angle:	360	 Right Elbow Angle:	74	Base Rotation Angle:	152
-Right Shoulder Angle:	348	 Right Elbow Angle:	97	Base Rotation Angle:	154
-Right Shoulder Angle:	336	 Right Elbow Angle:	119	Base Rotation Angle:	154
-Right Shoulder Angle:	322	 Right Elbow Angle:	138	Base Rotation Angle:	154
-Right Shoulder Angle:	312	 Right Elbow Angle:	151	Base Rotation Angle:	155
-Right Shoulder Angle:	305	 Right Elbow Angle:	158	Base Rotation Angle:	155
-Right Shoulder Angle:	302	 Right Elbow Angle:	160	Base Rotation Angle:	154
-Right Shoulder Angle:	300	 Right Elbow Angle:	161	Base Rotation Angle:	155
-Right Shoulder Angle:	299	 Right Elbow Angle:	163	Base Rotation Angle:	155
-Right Shoulder Angle:	300	 Right Elbow Angle:	161	Base Rotation Angle:	155
-Right Shoulder Angle:	300	 Right Elbow Angle:	160	Base Rotation Angle:	156
-Right Shoulder Angle:	302	 Right Elbow Angle:	156	Base Rotation Angle:	156
-Right Shoulder Angle:	304	 Right Elbow Angle:	150	Base Rotation Angle:	156
-Right Shoulder Angle:	310	 Right Elbow Angle:	137	Base Rotation Angle:	156
-Right Shoulder Angle:	317	 Right Elbow Angle:	124	Base Rotation Angle:	156
-Right Shoulder Angle:	328	 Right Elbow Angle:	104	Base Rotation Angle:	156
-Right Shoulder Angle:	339	 Right Elbow Angle:	83	Base Rotation Angle:	155
-Right Shoulder Angle:	350	 Right Elbow Angle:	62	Base Rotation Angle:	155
-Right Shoulder Angle:	360	 Right Elbow Angle:	44	Base Rotation Angle:	154
-Right Shoulder Angle:	365	 Right Elbow Angle:	29	Base Rotation Angle:	154
-Right Shoulder Angle:	369	 Right Elbow Angle:	19	Base Rotation Angle:	153
-Right Shoulder Angle:	370	 Right Elbow Angle:	16	Base Rotation Angle:	152
-Right Shoulder Angle:	369	 Right Elbow Angle:	16	Base Rotation Angle:	150
-Right Shoulder Angle:	367	 Right Elbow Angle:	18	Base Rotation Angle:	148
-Right Shoulder Angle:	363	 Right Elbow Angle:	21	Base Rotation Angle:	142
-Right Shoulder Angle:	359	 Right Elbow Angle:	27	Base Rotation Angle:	136
-Right Shoulder Angle:	353	 Right Elbow Angle:	36	Base Rotation Angle:	134
-Right Shoulder Angle:	347	 Right Elbow Angle:	52	Base Rotation Angle:	135
-Right Shoulder Angle:	340	 Right Elbow Angle:	71	Base Rotation Angle:	134
-Right Shoulder Angle:	333	 Right Elbow Angle:	93	Base Rotation Angle:	134
-Right Shoulder Angle:	325	 Right Elbow Angle:	115	Base Rotation Angle:	131
-Right Shoulder Angle:	317	 Right Elbow Angle:	133	Base Rotation Angle:	126
-Right Shoulder Angle:	309	 Right Elbow Angle:	146	Base Rotation Angle:	119
-Right Shoulder Angle:	305	 Right Elbow Angle:	151	Base Rotation Angle:	114
-Right Shoulder Angle:	302	 Right Elbow Angle:	154	Base Rotation Angle:	112
-Right Shoulder Angle:	300	 Right Elbow Angle:	156	Base Rotation Angle:	111
-Right Shoulder Angle:	300	 Right Elbow Angle:	156	Base Rotation Angle:	111
-Right Shoulder Angle:	300	 Right Elbow Angle:	156	Base Rotation Angle:	110
-Right Shoulder Angle:	300	 Right Elbow Angle:	157	Base Rotation Angle:	111
-Right Shoulder Angle:	301	 Right Elbow Angle:	157	Base Rotation Angle:	115
-Right Shoulder Angle:	301	 Right Elbow Angle:	157	Base Rotation Angle:	122
-Right Shoulder Angle:	301	 Right Elbow Angle:	157	Base Rotation Angle:	128
-Right Shoulder Angle:	300	 Right Elbow Angle:	157	Base Rotation Angle:	132
-Right Shoulder Angle:	300	 Right Elbow Angle:	157	Base Rotation Angle:	136
-Right Shoulder Angle:	300	 Right Elbow Angle:	158	Base Rotation Angle:	139
-Right Shoulder Angle:	299	 Right Elbow Angle:	158	Base Rotation Angle:	143
-Right Shoulder Angle:	299	 Right Elbow Angle:	158	Base Rotation Angle:	146
-Right Shoulder Angle:	299	 Right Elbow Angle:	158	Base Rotation Angle:	150
-Right Shoulder Angle:	299	 Right Elbow Angle:	159	Base Rotation Angle:	153
-Right Shoulder Angle:	299	 Right Elbow Angle:	158	Base Rotation Angle:	157
-Right Shoulder Angle:	299	 Right Elbow Angle:	158	Base Rotation Angle:	159
-Right Shoulder Angle:	299	 Right Elbow Angle:	158	Base Rotation Angle:	161
-Right Shoulder Angle:	299	 Right Elbow Angle:	158	Base Rotation Angle:	162
-Right Shoulder Angle:	299	 Right Elbow Angle:	158	Base Rotation Angle:	162
-Right Shoulder Angle:	298	 Right Elbow Angle:	158	Base Rotation Angle:	162
-Right Shoulder Angle:	298	 Right Elbow Angle:	158	Base Rotation Angle:	163
-Right Shoulder Angle:	299	 Right Elbow Angle:	156	Base Rotation Angle:	163
-Right Shoulder Angle:	301	 Right Elbow Angle:	152	Base Rotation Angle:	163
-Right Shoulder Angle:	306	 Right Elbow Angle:	142	Base Rotation Angle:	163
-Right Shoulder Angle:	312	 Right Elbow Angle:	128	Base Rotation Angle:	163
-Right Shoulder Angle:	318	 Right Elbow Angle:	115	Base Rotation Angle:	162
-Right Shoulder Angle:	323	 Right Elbow Angle:	101	Base Rotation Angle:	162
-Right Shoulder Angle:	328	 Right Elbow Angle:	89	Base Rotation Angle:	162
-Right Shoulder Angle:	332	 Right Elbow Angle:	78	Base Rotation Angle:	162
-Right Shoulder Angle:	335	 Right Elbow Angle:	71	Base Rotation Angle:	162
-Right Shoulder Angle:	338	 Right Elbow Angle:	66	Base Rotation Angle:	162
-Right Shoulder Angle:	341	 Right Elbow Angle:	62	Base Rotation Angle:	162
-Right Shoulder Angle:	342	 Right Elbow Angle:	54	Base Rotation Angle:	161
-Right Shoulder Angle:	344	 Right Elbow Angle:	49	Base Rotation Angle:	161
-Right Shoulder Angle:	344	 Right Elbow Angle:	45	Base Rotation Angle:	160
-Right Shoulder Angle:	344	 Right Elbow Angle:	44	Base Rotation Angle:	159
-Right Shoulder Angle:	344	 Right Elbow Angle:	42	Base Rotation Angle:	156
-Right Shoulder Angle:	344	 Right Elbow Angle:	42	Base Rotation Angle:	150
-Right Shoulder Angle:	344	 Right Elbow Angle:	42	Base Rotation Angle:	144
-Right Shoulder Angle:	343	 Right Elbow Angle:	42	Base Rotation Angle:	138
-Right Shoulder Angle:	343	 Right Elbow Angle:	42	Base Rotation Angle:	135
-Right Shoulder Angle:	343	 Right Elbow Angle:	42	Base Rotation Angle:	133
-Right Shoulder Angle:	343	 Right Elbow Angle:	42	Base Rotation Angle:	132
-Right Shoulder Angle:	342	 Right Elbow Angle:	43	Base Rotation Angle:	133
-Right Shoulder Angle:	341	 Right Elbow Angle:	44	Base Rotation Angle:	135
-Right Shoulder Angle:	341	 Right Elbow Angle:	45	Base Rotation Angle:	138
-Right Shoulder Angle:	340	 Right Elbow Angle:	46	Base Rotation Angle:	142
-Right Shoulder Angle:	340	 Right Elbow Angle:	47	Base Rotation Angle:	147
-Right Shoulder Angle:	339	 Right Elbow Angle:	49	Base Rotation Angle:	151
-Right Shoulder Angle:	339	 Right Elbow Angle:	50	Base Rotation Angle:	155
-Right Shoulder Angle:	338	 Right Elbow Angle:	51	Base Rotation Angle:	157
-Right Shoulder Angle:	337	 Right Elbow Angle:	51	Base Rotation Angle:	159
-Right Shoulder Angle:	337	 Right Elbow Angle:	51	Base Rotation Angle:	159
-Right Shoulder Angle:	337	 Right Elbow Angle:	51	Base Rotation Angle:	160
-Right Shoulder Angle:	337	 Right Elbow Angle:	51	Base Rotation Angle:	160
-Right Shoulder Angle:	337	 Right Elbow Angle:	51	Base Rotation Angle:	161
-Right Shoulder Angle:	337	 Right Elbow Angle:	52	Base Rotation Angle:	161
-Right Shoulder Angle:	337	 Right Elbow Angle:	52	Base Rotation Angle:	161
-Right Shoulder Angle:	336	 Right Elbow Angle:	52	Base Rotation Angle:	162
-Right Shoulder Angle:	336	 Right Elbow Angle:	52	Base Rotation Angle:	161
-Right Shoulder Angle:	336	 Right Elbow Angle:	52	Base Rotation Angle:	161
-Right Shoulder Angle:	336	 Right Elbow Angle:	51	Base Rotation Angle:	160
-Right Shoulder Angle:	335	 Right Elbow Angle:	51	Base Rotation Angle:	159
-Right Shoulder Angle:	335	 Right Elbow Angle:	51	Base Rotation Angle:	160
-Right Shoulder Angle:	335	 Right Elbow Angle:	51	Base Rotation Angle:	160
-Right Shoulder Angle:	334	 Right Elbow Angle:	53	Base Rotation Angle:	160
-Right Shoulder Angle:	332	 Right Elbow Angle:	61	Base Rotation Angle:	160
-Right Shoulder Angle:	330	 Right Elbow Angle:	72	Base Rotation Angle:	159
-Right Shoulder Angle:	328	 Right Elbow Angle:	81	Base Rotation Angle:	159
-Right Shoulder Angle:	326	 Right Elbow Angle:	90	Base Rotation Angle:	159
-Right Shoulder Angle:	323	 Right Elbow Angle:	96	Base Rotation Angle:	159
-Right Shoulder Angle:	322	 Right Elbow Angle:	102	Base Rotation Angle:	159
-Right Shoulder Angle:	320	 Right Elbow Angle:	107	Base Rotation Angle:	159
-Right Shoulder Angle:	318	 Right Elbow Angle:	112	Base Rotation Angle:	159
-Right Shoulder Angle:	319	 Right Elbow Angle:	112	Base Rotation Angle:	160
-Right Shoulder Angle:	322	 Right Elbow Angle:	107	Base Rotation Angle:	160
-Right Shoulder Angle:	329	 Right Elbow Angle:	93	Base Rotation Angle:	160
-Right Shoulder Angle:	333	 Right Elbow Angle:	78	Base Rotation Angle:	160
-Right Shoulder Angle:	338	 Right Elbow Angle:	61	Base Rotation Angle:	160
-Right Shoulder Angle:	346	 Right Elbow Angle:	44	Base Rotation Angle:	159
-Right Shoulder Angle:	352	 Right Elbow Angle:	31	Base Rotation Angle:	159
-Right Shoulder Angle:	356	 Right Elbow Angle:	24	Base Rotation Angle:	158
-Right Shoulder Angle:	359	 Right Elbow Angle:	19	Base Rotation Angle:	158
-Right Shoulder Angle:	361	 Right Elbow Angle:	16	Base Rotation Angle:	157
-Right Shoulder Angle:	362	 Right Elbow Angle:	14	Base Rotation Angle:	157
-Right Shoulder Angle:	362	 Right Elbow Angle:	12	Base Rotation Angle:	157
-Right Shoulder Angle:	362	 Right Elbow Angle:	11	Base Rotation Angle:	157
-Right Shoulder Angle:	363	 Right Elbow Angle:	10	Base Rotation Angle:	157
-Right Shoulder Angle:	362	 Right Elbow Angle:	11	Base Rotation Angle:	157
-Right Shoulder Angle:	362	 Right Elbow Angle:	11	Base Rotation Angle:	156
-Right Shoulder Angle:	361	 Right Elbow Angle:	10	Base Rotation Angle:	156
-Right Shoulder Angle:	357	 Right Elbow Angle:	16	Base Rotation Angle:	156
-Right Shoulder Angle:	348	 Right Elbow Angle:	30	Base Rotation Angle:	156
-Right Shoulder Angle:	338	 Right Elbow Angle:	49	Base Rotation Angle:	157
-Right Shoulder Angle:	331	 Right Elbow Angle:	71	Base Rotation Angle:	157
-Right Shoulder Angle:	324	 Right Elbow Angle:	94	Base Rotation Angle:	158
-Right Shoulder Angle:	317	 Right Elbow Angle:	116	Base Rotation Angle:	159
-Right Shoulder Angle:	311	 Right Elbow Angle:	132	Base Rotation Angle:	160
-Right Shoulder Angle:	307	 Right Elbow Angle:	142	Base Rotation Angle:	161
-Right Shoulder Angle:	306	 Right Elbow Angle:	148	Base Rotation Angle:	159
-Right Shoulder Angle:	305	 Right Elbow Angle:	152	Base Rotation Angle:	160
-Right Shoulder Angle:	307	 Right Elbow Angle:	154	Base Rotation Angle:	160
-Right Shoulder Angle:	307	 Right Elbow Angle:	155	Base Rotation Angle:	160
-Right Shoulder Angle:	307	 Right Elbow Angle:	155	Base Rotation Angle:	159
-Right Shoulder Angle:	305	 Right Elbow Angle:	155	Base Rotation Angle:	159
-Right Shoulder Angle:	305	 Right Elbow Angle:	155	Base Rotation Angle:	160
-Right Shoulder Angle:	306	 Right Elbow Angle:	154	Base Rotation Angle:	162
-Right Shoulder Angle:	305	 Right Elbow Angle:	153	Base Rotation Angle:	162
-Right Shoulder Angle:	306	 Right Elbow Angle:	151	Base Rotation Angle:	164
-Right Shoulder Angle:	305	 Right Elbow Angle:	150	Base Rotation Angle:	160
-Right Shoulder Angle:	304	 Right Elbow Angle:	148	Base Rotation Angle:	159
-Right Shoulder Angle:	309	 Right Elbow Angle:	146	Base Rotation Angle:	163
-Right Shoulder Angle:	305	 Right Elbow Angle:	139	Base Rotation Angle:	165
-Right Shoulder Angle:	300	 Right Elbow Angle:	132	Base Rotation Angle:	166
-Right Shoulder Angle:	295	 Right Elbow Angle:	124	Base Rotation Angle:	167
-Right Shoulder Angle:	291	 Right Elbow Angle:	113	Base Rotation Angle:	168
-Right Shoulder Angle:	287	 Right Elbow Angle:	100	Base Rotation Angle:	168
-Right Shoulder Angle:	284	 Right Elbow Angle:	87	Base Rotation Angle:	169
-Right Shoulder Angle:	282	 Right Elbow Angle:	75	Base Rotation Angle:	169
-Right Shoulder Angle:	281	 Right Elbow Angle:	64	Base Rotation Angle:	169
-Right Shoulder Angle:	279	 Right Elbow Angle:	55	Base Rotation Angle:	169
-Right Shoulder Angle:	278	 Right Elbow Angle:	48	Base Rotation Angle:	169
+Right Shoulder Angle:	298	 Right Elbow Angle:	171	Base Rotation Angle:	95	Left Shoulder Elbow148
+Right Shoulder Angle:	320	 Right Elbow Angle:	163	Base Rotation Angle:	91	Left Shoulder Elbow149
+Right Shoulder Angle:	320	 Right Elbow Angle:	120	Base Rotation Angle:	89	Left Shoulder Elbow152
+Right Shoulder Angle:	343	 Right Elbow Angle:	66	Base Rotation Angle:	88	Left Shoulder Elbow158
+Right Shoulder Angle:	355	 Right Elbow Angle:	28	Base Rotation Angle:	90	Left Shoulder Elbow161
+Right Shoulder Angle:	358	 Right Elbow Angle:	33	Base Rotation Angle:	90	Left Shoulder Elbow162
+Right Shoulder Angle:	362	 Right Elbow Angle:	34	Base Rotation Angle:	92	Left Shoulder Elbow159
+Right Shoulder Angle:	361	 Right Elbow Angle:	36	Base Rotation Angle:	94	Left Shoulder Elbow160
+Right Shoulder Angle:	361	 Right Elbow Angle:	38	Base Rotation Angle:	96	Left Shoulder Elbow158
+Right Shoulder Angle:	361	 Right Elbow Angle:	39	Base Rotation Angle:	95	Left Shoulder Elbow160
+Right Shoulder Angle:	361	 Right Elbow Angle:	39	Base Rotation Angle:	97	Left Shoulder Elbow160
+Right Shoulder Angle:	361	 Right Elbow Angle:	41	Base Rotation Angle:	96	Left Shoulder Elbow163
+Right Shoulder Angle:	363	 Right Elbow Angle:	43	Base Rotation Angle:	97	Left Shoulder Elbow162
+Right Shoulder Angle:	362	 Right Elbow Angle:	44	Base Rotation Angle:	98	Left Shoulder Elbow160
+Right Shoulder Angle:	361	 Right Elbow Angle:	45	Base Rotation Angle:	94	Left Shoulder Elbow163
+Right Shoulder Angle:	361	 Right Elbow Angle:	45	Base Rotation Angle:	96	Left Shoulder Elbow165
+Right Shoulder Angle:	362	 Right Elbow Angle:	46	Base Rotation Angle:	97	Left Shoulder Elbow172
+Right Shoulder Angle:	364	 Right Elbow Angle:	50	Base Rotation Angle:	120	Left Shoulder Elbow156
+Right Shoulder Angle:	366	 Right Elbow Angle:	50	Base Rotation Angle:	127	Left Shoulder Elbow175
+Right Shoulder Angle:	365	 Right Elbow Angle:	52	Base Rotation Angle:	139	Left Shoulder Elbow177
+Right Shoulder Angle:	366	 Right Elbow Angle:	52	Base Rotation Angle:	151	Left Shoulder Elbow173
+Right Shoulder Angle:	366	 Right Elbow Angle:	52	Base Rotation Angle:	154	Left Shoulder Elbow171
+Right Shoulder Angle:	366	 Right Elbow Angle:	53	Base Rotation Angle:	158	Left Shoulder Elbow170
+Right Shoulder Angle:	365	 Right Elbow Angle:	53	Base Rotation Angle:	157	Left Shoulder Elbow167
+Right Shoulder Angle:	365	 Right Elbow Angle:	54	Base Rotation Angle:	159	Left Shoulder Elbow167
+Right Shoulder Angle:	366	 Right Elbow Angle:	54	Base Rotation Angle:	160	Left Shoulder Elbow169
+Right Shoulder Angle:	367	 Right Elbow Angle:	53	Base Rotation Angle:	158	Left Shoulder Elbow170
+Right Shoulder Angle:	366	 Right Elbow Angle:	53	Base Rotation Angle:	161	Left Shoulder Elbow178
+Right Shoulder Angle:	362	 Right Elbow Angle:	57	Base Rotation Angle:	152	Left Shoulder Elbow177
+Right Shoulder Angle:	363	 Right Elbow Angle:	57	Base Rotation Angle:	125	Left Shoulder Elbow170
+Right Shoulder Angle:	360	 Right Elbow Angle:	59	Base Rotation Angle:	104	Left Shoulder Elbow171
+Right Shoulder Angle:	359	 Right Elbow Angle:	62	Base Rotation Angle:	79	Left Shoulder Elbow168
+Right Shoulder Angle:	358	 Right Elbow Angle:	64	Base Rotation Angle:	73	Left Shoulder Elbow150
+Right Shoulder Angle:	357	 Right Elbow Angle:	66	Base Rotation Angle:	69	Left Shoulder Elbow147
+Right Shoulder Angle:	356	 Right Elbow Angle:	69	Base Rotation Angle:	69	Left Shoulder Elbow149
+Right Shoulder Angle:	355	 Right Elbow Angle:	69	Base Rotation Angle:	73	Left Shoulder Elbow152
+Right Shoulder Angle:	352	 Right Elbow Angle:	71	Base Rotation Angle:	75	Left Shoulder Elbow154
+Right Shoulder Angle:	352	 Right Elbow Angle:	73	Base Rotation Angle:	80	Left Shoulder Elbow155
+Right Shoulder Angle:	355	 Right Elbow Angle:	74	Base Rotation Angle:	80	Left Shoulder Elbow155
+Right Shoulder Angle:	360	 Right Elbow Angle:	70	Base Rotation Angle:	81	Left Shoulder Elbow155
+Right Shoulder Angle:	357	 Right Elbow Angle:	72	Base Rotation Angle:	79	Left Shoulder Elbow157
+Right Shoulder Angle:	362	 Right Elbow Angle:	78	Base Rotation Angle:	79	Left Shoulder Elbow158
+Right Shoulder Angle:	363	 Right Elbow Angle:	96	Base Rotation Angle:	82	Left Shoulder Elbow157
+Right Shoulder Angle:	337	 Right Elbow Angle:	111	Base Rotation Angle:	81	Left Shoulder Elbow156
+Right Shoulder Angle:	345	 Right Elbow Angle:	132	Base Rotation Angle:	82	Left Shoulder Elbow156
+Right Shoulder Angle:	428	 Right Elbow Angle:	144	Base Rotation Angle:	82	Left Shoulder Elbow156
+Right Shoulder Angle:	326	 Right Elbow Angle:	156	Base Rotation Angle:	84	Left Shoulder Elbow157
+Right Shoulder Angle:	307	 Right Elbow Angle:	160	Base Rotation Angle:	85	Left Shoulder Elbow156
+Right Shoulder Angle:	298	 Right Elbow Angle:	170	Base Rotation Angle:	86	Left Shoulder Elbow154
+Right Shoulder Angle:	291	 Right Elbow Angle:	174	Base Rotation Angle:	85	Left Shoulder Elbow155
+Right Shoulder Angle:	292	 Right Elbow Angle:	169	Base Rotation Angle:	86	Left Shoulder Elbow154
+Right Shoulder Angle:	291	 Right Elbow Angle:	37	Base Rotation Angle:	82	Left Shoulder Elbow154
+Right Shoulder Angle:	286	 Right Elbow Angle:	164	Base Rotation Angle:	84	Left Shoulder Elbow155
+Right Shoulder Angle:	288	 Right Elbow Angle:	166	Base Rotation Angle:	83	Left Shoulder Elbow155
+Right Shoulder Angle:	291	 Right Elbow Angle:	168	Base Rotation Angle:	83	Left Shoulder Elbow156
+Right Shoulder Angle:	292	 Right Elbow Angle:	167	Base Rotation Angle:	82	Left Shoulder Elbow156
+Right Shoulder Angle:	293	 Right Elbow Angle:	169	Base Rotation Angle:	84	Left Shoulder Elbow159
+Right Shoulder Angle:	293	 Right Elbow Angle:	163	Base Rotation Angle:	85	Left Shoulder Elbow164
+Right Shoulder Angle:	294	 Right Elbow Angle:	165	Base Rotation Angle:	91	Left Shoulder Elbow161
+Right Shoulder Angle:	294	 Right Elbow Angle:	165	Base Rotation Angle:	95	Left Shoulder Elbow167
+Right Shoulder Angle:	294	 Right Elbow Angle:	165	Base Rotation Angle:	102	Left Shoulder Elbow168
+Right Shoulder Angle:	295	 Right Elbow Angle:	164	Base Rotation Angle:	109	Left Shoulder Elbow178
+Right Shoulder Angle:	295	 Right Elbow Angle:	163	Base Rotation Angle:	118	Left Shoulder Elbow178
+Right Shoulder Angle:	295	 Right Elbow Angle:	168	Base Rotation Angle:	129	Left Shoulder Elbow176
+Right Shoulder Angle:	297	 Right Elbow Angle:	166	Base Rotation Angle:	138	Left Shoulder Elbow176
+Right Shoulder Angle:	297	 Right Elbow Angle:	167	Base Rotation Angle:	145	Left Shoulder Elbow177
+Right Shoulder Angle:	295	 Right Elbow Angle:	169	Base Rotation Angle:	154	Left Shoulder Elbow176
+Right Shoulder Angle:	296	 Right Elbow Angle:	169	Base Rotation Angle:	159	Left Shoulder Elbow179
+Right Shoulder Angle:	296	 Right Elbow Angle:	168	Base Rotation Angle:	161	Left Shoulder Elbow178
+Right Shoulder Angle:	296	 Right Elbow Angle:	168	Base Rotation Angle:	162	Left Shoulder Elbow177
+Right Shoulder Angle:	296	 Right Elbow Angle:	152	Base Rotation Angle:	161	Left Shoulder Elbow177
+Right Shoulder Angle:	321	 Right Elbow Angle:	122	Base Rotation Angle:	159	Left Shoulder Elbow176
+Right Shoulder Angle:	332	 Right Elbow Angle:	85	Base Rotation Angle:	160	Left Shoulder Elbow176
+Right Shoulder Angle:	345	 Right Elbow Angle:	54	Base Rotation Angle:	159	Left Shoulder Elbow179
+Right Shoulder Angle:	344	 Right Elbow Angle:	43	Base Rotation Angle:	160	Left Shoulder Elbow177
+Right Shoulder Angle:	349	 Right Elbow Angle:	37	Base Rotation Angle:	160	Left Shoulder Elbow177
+Right Shoulder Angle:	353	 Right Elbow Angle:	30	Base Rotation Angle:	160	Left Shoulder Elbow178
+Right Shoulder Angle:	356	 Right Elbow Angle:	26	Base Rotation Angle:	161	Left Shoulder Elbow179
+Right Shoulder Angle:	357	 Right Elbow Angle:	22	Base Rotation Angle:	160	Left Shoulder Elbow178
+Right Shoulder Angle:	357	 Right Elbow Angle:	16	Base Rotation Angle:	160	Left Shoulder Elbow178
+Right Shoulder Angle:	358	 Right Elbow Angle:	10	Base Rotation Angle:	160	Left Shoulder Elbow178
+Right Shoulder Angle:	357	 Right Elbow Angle:	12	Base Rotation Angle:	160	Left Shoulder Elbow179
+Right Shoulder Angle:	356	 Right Elbow Angle:	10	Base Rotation Angle:	160	Left Shoulder Elbow177
+Right Shoulder Angle:	357	 Right Elbow Angle:	10	Base Rotation Angle:	160	Left Shoulder Elbow176
+Right Shoulder Angle:	366	 Right Elbow Angle:	7	Base Rotation Angle:	160	Left Shoulder Elbow175
+Right Shoulder Angle:	375	 Right Elbow Angle:	6	Base Rotation Angle:	160	Left Shoulder Elbow173
+Right Shoulder Angle:	383	 Right Elbow Angle:	6	Base Rotation Angle:	159	Left Shoulder Elbow172
+Right Shoulder Angle:	387	 Right Elbow Angle:	8	Base Rotation Angle:	159	Left Shoulder Elbow170
+Right Shoulder Angle:	388	 Right Elbow Angle:	15	Base Rotation Angle:	159	Left Shoulder Elbow169
+Right Shoulder Angle:	391	 Right Elbow Angle:	17	Base Rotation Angle:	159	Left Shoulder Elbow170
+Right Shoulder Angle:	392	 Right Elbow Angle:	20	Base Rotation Angle:	159	Left Shoulder Elbow170
+Right Shoulder Angle:	391	 Right Elbow Angle:	21	Base Rotation Angle:	159	Left Shoulder Elbow169
+Right Shoulder Angle:	391	 Right Elbow Angle:	22	Base Rotation Angle:	160	Left Shoulder Elbow171
+Right Shoulder Angle:	389	 Right Elbow Angle:	17	Base Rotation Angle:	160	Left Shoulder Elbow170
+Right Shoulder Angle:	384	 Right Elbow Angle:	22	Base Rotation Angle:	160	Left Shoulder Elbow171
+Right Shoulder Angle:	363	 Right Elbow Angle:	53	Base Rotation Angle:	160	Left Shoulder Elbow172
+Right Shoulder Angle:	358	 Right Elbow Angle:	59	Base Rotation Angle:	159	Left Shoulder Elbow171
+Right Shoulder Angle:	331	 Right Elbow Angle:	85	Base Rotation Angle:	159	Left Shoulder Elbow172
+Right Shoulder Angle:	320	 Right Elbow Angle:	96	Base Rotation Angle:	159	Left Shoulder Elbow170
+Right Shoulder Angle:	315	 Right Elbow Angle:	105	Base Rotation Angle:	161	Left Shoulder Elbow174
+Right Shoulder Angle:	306	 Right Elbow Angle:	114	Base Rotation Angle:	159	Left Shoulder Elbow172
+Right Shoulder Angle:	299	 Right Elbow Angle:	128	Base Rotation Angle:	159	Left Shoulder Elbow171
+Right Shoulder Angle:	299	 Right Elbow Angle:	146	Base Rotation Angle:	160	Left Shoulder Elbow173
+Right Shoulder Angle:	300	 Right Elbow Angle:	170	Base Rotation Angle:	159	Left Shoulder Elbow172
+Right Shoulder Angle:	298	 Right Elbow Angle:	159	Base Rotation Angle:	160	Left Shoulder Elbow173
+Right Shoulder Angle:	295	 Right Elbow Angle:	170	Base Rotation Angle:	155	Left Shoulder Elbow170
+Right Shoulder Angle:	296	 Right Elbow Angle:	172	Base Rotation Angle:	153	Left Shoulder Elbow173
+Right Shoulder Angle:	297	 Right Elbow Angle:	106	Base Rotation Angle:	132	Left Shoulder Elbow166
+Right Shoulder Angle:	295	 Right Elbow Angle:	175	Base Rotation Angle:	110	Left Shoulder Elbow166
+Right Shoulder Angle:	297	 Right Elbow Angle:	161	Base Rotation Angle:	101	Left Shoulder Elbow163
+Right Shoulder Angle:	298	 Right Elbow Angle:	159	Base Rotation Angle:	85	Left Shoulder Elbow153
+Right Shoulder Angle:	298	 Right Elbow Angle:	162	Base Rotation Angle:	82	Left Shoulder Elbow142
+Right Shoulder Angle:	299	 Right Elbow Angle:	164	Base Rotation Angle:	78	Left Shoulder Elbow138
+Right Shoulder Angle:	298	 Right Elbow Angle:	164	Base Rotation Angle:	77	Left Shoulder Elbow140
+Right Shoulder Angle:	298	 Right Elbow Angle:	166	Base Rotation Angle:	80	Left Shoulder Elbow146
+Right Shoulder Angle:	298	 Right Elbow Angle:	170	Base Rotation Angle:	88	Left Shoulder Elbow165
+Right Shoulder Angle:	298	 Right Elbow Angle:	165	Base Rotation Angle:	104	Left Shoulder Elbow161
+Right Shoulder Angle:	299	 Right Elbow Angle:	170	Base Rotation Angle:	124	Left Shoulder Elbow158
+Right Shoulder Angle:	299	 Right Elbow Angle:	170	Base Rotation Angle:	132	Left Shoulder Elbow172
+Right Shoulder Angle:	300	 Right Elbow Angle:	170	Base Rotation Angle:	137	Left Shoulder Elbow173
+Right Shoulder Angle:	300	 Right Elbow Angle:	170	Base Rotation Angle:	149	Left Shoulder Elbow174
+Right Shoulder Angle:	299	 Right Elbow Angle:	171	Base Rotation Angle:	152	Left Shoulder Elbow178
+Right Shoulder Angle:	299	 Right Elbow Angle:	173	Base Rotation Angle:	156	Left Shoulder Elbow177
+Right Shoulder Angle:	298	 Right Elbow Angle:	172	Base Rotation Angle:	160	Left Shoulder Elbow168
+Right Shoulder Angle:	298	 Right Elbow Angle:	172	Base Rotation Angle:	161	Left Shoulder Elbow125
+Right Shoulder Angle:	298	 Right Elbow Angle:	172	Base Rotation Angle:	155	Left Shoulder Elbow67
+Right Shoulder Angle:	299	 Right Elbow Angle:	169	Base Rotation Angle:	149	Left Shoulder Elbow44
+Right Shoulder Angle:	299	 Right Elbow Angle:	171	Base Rotation Angle:	147	Left Shoulder Elbow33
+Right Shoulder Angle:	297	 Right Elbow Angle:	170	Base Rotation Angle:	142	Left Shoulder Elbow24
+Right Shoulder Angle:	297	 Right Elbow Angle:	173	Base Rotation Angle:	138	Left Shoulder Elbow22
+Right Shoulder Angle:	298	 Right Elbow Angle:	172	Base Rotation Angle:	135	Left Shoulder Elbow17
+Right Shoulder Angle:	298	 Right Elbow Angle:	173	Base Rotation Angle:	139	Left Shoulder Elbow24
+Right Shoulder Angle:	320	 Right Elbow Angle:	174	Base Rotation Angle:	149	Left Shoulder Elbow20
+Right Shoulder Angle:	314	 Right Elbow Angle:	169	Base Rotation Angle:	138	Left Shoulder Elbow21
+Right Shoulder Angle:	309	 Right Elbow Angle:	172	Base Rotation Angle:	136	Left Shoulder Elbow22
+Right Shoulder Angle:	297	 Right Elbow Angle:	164	Base Rotation Angle:	137	Left Shoulder Elbow24
+Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	137	Left Shoulder Elbow44
+Right Shoulder Angle:	300	 Right Elbow Angle:	176	Base Rotation Angle:	130	Left Shoulder Elbow66
+Right Shoulder Angle:	300	 Right Elbow Angle:	175	Base Rotation Angle:	123	Left Shoulder Elbow93
+Right Shoulder Angle:	300	 Right Elbow Angle:	108	Base Rotation Angle:	120	Left Shoulder Elbow108
+Right Shoulder Angle:	300	 Right Elbow Angle:	162	Base Rotation Angle:	102	Left Shoulder Elbow126
+Right Shoulder Angle:	299	 Right Elbow Angle:	165	Base Rotation Angle:	103	Left Shoulder Elbow137
+Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	101	Left Shoulder Elbow139
+Right Shoulder Angle:	299	 Right Elbow Angle:	169	Base Rotation Angle:	105	Left Shoulder Elbow124
+Right Shoulder Angle:	300	 Right Elbow Angle:	168	Base Rotation Angle:	128	Left Shoulder Elbow86
+Right Shoulder Angle:	300	 Right Elbow Angle:	167	Base Rotation Angle:	126	Left Shoulder Elbow64
+Right Shoulder Angle:	299	 Right Elbow Angle:	167	Base Rotation Angle:	127	Left Shoulder Elbow49
+Right Shoulder Angle:	299	 Right Elbow Angle:	168	Base Rotation Angle:	134	Left Shoulder Elbow41
+Right Shoulder Angle:	299	 Right Elbow Angle:	166	Base Rotation Angle:	137	Left Shoulder Elbow41
+Right Shoulder Angle:	299	 Right Elbow Angle:	167	Base Rotation Angle:	133	Left Shoulder Elbow30
+Right Shoulder Angle:	299	 Right Elbow Angle:	171	Base Rotation Angle:	133	Left Shoulder Elbow28
+Right Shoulder Angle:	299	 Right Elbow Angle:	168	Base Rotation Angle:	133	Left Shoulder Elbow29
+Right Shoulder Angle:	300	 Right Elbow Angle:	175	Base Rotation Angle:	132	Left Shoulder Elbow26
+Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	137	Left Shoulder Elbow28
+Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	139	Left Shoulder Elbow23
+Right Shoulder Angle:	299	 Right Elbow Angle:	175	Base Rotation Angle:	137	Left Shoulder Elbow25
+Right Shoulder Angle:	299	 Right Elbow Angle:	174	Base Rotation Angle:	138	Left Shoulder Elbow30
+Right Shoulder Angle:	298	 Right Elbow Angle:	174	Base Rotation Angle:	136	Left Shoulder Elbow27
+Right Shoulder Angle:	298	 Right Elbow Angle:	174	Base Rotation Angle:	138	Left Shoulder Elbow30
+Right Shoulder Angle:	298	 Right Elbow Angle:	177	Base Rotation Angle:	137	Left Shoulder Elbow27
+Right Shoulder Angle:	298	 Right Elbow Angle:	166	Base Rotation Angle:	139	Left Shoulder Elbow26
+Right Shoulder Angle:	298	 Right Elbow Angle:	175	Base Rotation Angle:	138	Left Shoulder Elbow23
+Right Shoulder Angle:	298	 Right Elbow Angle:	174	Base Rotation Angle:	138	Left Shoulder Elbow29
+Right Shoulder Angle:	298	 Right Elbow Angle:	173	Base Rotation Angle:	138	Left Shoulder Elbow26
+Right Shoulder Angle:	299	 Right Elbow Angle:	174	Base Rotation Angle:	138	Left Shoulder Elbow23
+Right Shoulder Angle:	299	 Right Elbow Angle:	175	Base Rotation Angle:	128	Left Shoulder Elbow49
+Right Shoulder Angle:	299	 Right Elbow Angle:	101	Base Rotation Angle:	135	Left Shoulder Elbow55
+Right Shoulder Angle:	300	 Right Elbow Angle:	144	Base Rotation Angle:	116	Left Shoulder Elbow73
+Right Shoulder Angle:	300	 Right Elbow Angle:	177	Base Rotation Angle:	122	Left Shoulder Elbow81
+Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	121	Left Shoulder Elbow89
+Right Shoulder Angle:	301	 Right Elbow Angle:	173	Base Rotation Angle:	119	Left Shoulder Elbow102
+Right Shoulder Angle:	300	 Right Elbow Angle:	168	Base Rotation Angle:	113	Left Shoulder Elbow112
+Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	110	Left Shoulder Elbow120
+Right Shoulder Angle:	302	 Right Elbow Angle:	171	Base Rotation Angle:	100	Left Shoulder Elbow135
+Right Shoulder Angle:	301	 Right Elbow Angle:	171	Base Rotation Angle:	101	Left Shoulder Elbow138
+Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	101	Left Shoulder Elbow144
+Right Shoulder Angle:	299	 Right Elbow Angle:	173	Base Rotation Angle:	103	Left Shoulder Elbow146
+Right Shoulder Angle:	299	 Right Elbow Angle:	163	Base Rotation Angle:	104	Left Shoulder Elbow145
+Right Shoulder Angle:	300	 Right Elbow Angle:	175	Base Rotation Angle:	110	Left Shoulder Elbow141
+Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	108	Left Shoulder Elbow143
+Right Shoulder Angle:	300	 Right Elbow Angle:	169	Base Rotation Angle:	107	Left Shoulder Elbow143
+Right Shoulder Angle:	301	 Right Elbow Angle:	168	Base Rotation Angle:	107	Left Shoulder Elbow143
+Right Shoulder Angle:	301	 Right Elbow Angle:	167	Base Rotation Angle:	107	Left Shoulder Elbow143
+Right Shoulder Angle:	302	 Right Elbow Angle:	168	Base Rotation Angle:	104	Left Shoulder Elbow142
+Right Shoulder Angle:	303	 Right Elbow Angle:	167	Base Rotation Angle:	109	Left Shoulder Elbow138
+Right Shoulder Angle:	300	 Right Elbow Angle:	168	Base Rotation Angle:	106	Left Shoulder Elbow139
+Right Shoulder Angle:	301	 Right Elbow Angle:	164	Base Rotation Angle:	106	Left Shoulder Elbow138
+Right Shoulder Angle:	302	 Right Elbow Angle:	169	Base Rotation Angle:	105	Left Shoulder Elbow138
+Right Shoulder Angle:	302	 Right Elbow Angle:	168	Base Rotation Angle:	104	Left Shoulder Elbow135
+Right Shoulder Angle:	302	 Right Elbow Angle:	168	Base Rotation Angle:	102	Left Shoulder Elbow132
+Right Shoulder Angle:	301	 Right Elbow Angle:	140	Base Rotation Angle:	104	Left Shoulder Elbow126
+Right Shoulder Angle:	301	 Right Elbow Angle:	168	Base Rotation Angle:	104	Left Shoulder Elbow118
+Right Shoulder Angle:	302	 Right Elbow Angle:	165	Base Rotation Angle:	103	Left Shoulder Elbow110
+Right Shoulder Angle:	301	 Right Elbow Angle:	168	Base Rotation Angle:	109	Left Shoulder Elbow94
+Right Shoulder Angle:	302	 Right Elbow Angle:	167	Base Rotation Angle:	106	Left Shoulder Elbow79
+Right Shoulder Angle:	302	 Right Elbow Angle:	169	Base Rotation Angle:	108	Left Shoulder Elbow68
+Right Shoulder Angle:	302	 Right Elbow Angle:	158	Base Rotation Angle:	115	Left Shoulder Elbow55
+Right Shoulder Angle:	302	 Right Elbow Angle:	158	Base Rotation Angle:	122	Left Shoulder Elbow47
+Right Shoulder Angle:	305	 Right Elbow Angle:	176	Base Rotation Angle:	122	Left Shoulder Elbow40
+Right Shoulder Angle:	305	 Right Elbow Angle:	177	Base Rotation Angle:	123	Left Shoulder Elbow35
+Right Shoulder Angle:	302	 Right Elbow Angle:	169	Base Rotation Angle:	129	Left Shoulder Elbow34
+Right Shoulder Angle:	303	 Right Elbow Angle:	174	Base Rotation Angle:	139	Left Shoulder Elbow45
+Right Shoulder Angle:	301	 Right Elbow Angle:	167	Base Rotation Angle:	129	Left Shoulder Elbow34
+Right Shoulder Angle:	301	 Right Elbow Angle:	171	Base Rotation Angle:	127	Left Shoulder Elbow51
+Right Shoulder Angle:	297	 Right Elbow Angle:	173	Base Rotation Angle:	130	Left Shoulder Elbow37
+Right Shoulder Angle:	298	 Right Elbow Angle:	167	Base Rotation Angle:	132	Left Shoulder Elbow35
+Right Shoulder Angle:	298	 Right Elbow Angle:	169	Base Rotation Angle:	126	Left Shoulder Elbow51
+Right Shoulder Angle:	298	 Right Elbow Angle:	169	Base Rotation Angle:	130	Left Shoulder Elbow31
+Right Shoulder Angle:	298	 Right Elbow Angle:	172	Base Rotation Angle:	127	Left Shoulder Elbow47
+Right Shoulder Angle:	298	 Right Elbow Angle:	170	Base Rotation Angle:	127	Left Shoulder Elbow28
+Right Shoulder Angle:	319	 Right Elbow Angle:	173	Base Rotation Angle:	141	Left Shoulder Elbow31
+Right Shoulder Angle:	315	 Right Elbow Angle:	176	Base Rotation Angle:	141	Left Shoulder Elbow40
+Right Shoulder Angle:	303	 Right Elbow Angle:	171	Base Rotation Angle:	137	Left Shoulder Elbow33
+Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	142	Left Shoulder Elbow31
+Right Shoulder Angle:	299	 Right Elbow Angle:	162	Base Rotation Angle:	145	Left Shoulder Elbow26
+Right Shoulder Angle:	300	 Right Elbow Angle:	173	Base Rotation Angle:	149	Left Shoulder Elbow29
+Right Shoulder Angle:	301	 Right Elbow Angle:	169	Base Rotation Angle:	155	Left Shoulder Elbow26
+Right Shoulder Angle:	300	 Right Elbow Angle:	172	Base Rotation Angle:	155	Left Shoulder Elbow28
+Right Shoulder Angle:	300	 Right Elbow Angle:	179	Base Rotation Angle:	155	Left Shoulder Elbow28
+Right Shoulder Angle:	300	 Right Elbow Angle:	140	Base Rotation Angle:	154	Left Shoulder Elbow25
+Right Shoulder Angle:	301	 Right Elbow Angle:	173	Base Rotation Angle:	155	Left Shoulder Elbow25
+Right Shoulder Angle:	303	 Right Elbow Angle:	171	Base Rotation Angle:	156	Left Shoulder Elbow25
+Right Shoulder Angle:	302	 Right Elbow Angle:	173	Base Rotation Angle:	156	Left Shoulder Elbow27
+Right Shoulder Angle:	301	 Right Elbow Angle:	171	Base Rotation Angle:	156	Left Shoulder Elbow27
+Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	156	Left Shoulder Elbow26
+Right Shoulder Angle:	301	 Right Elbow Angle:	173	Base Rotation Angle:	156	Left Shoulder Elbow34
+Right Shoulder Angle:	303	 Right Elbow Angle:	173	Base Rotation Angle:	154	Left Shoulder Elbow28
+Right Shoulder Angle:	301	 Right Elbow Angle:	165	Base Rotation Angle:	152	Left Shoulder Elbow28
+Right Shoulder Angle:	302	 Right Elbow Angle:	174	Base Rotation Angle:	150	Left Shoulder Elbow30
+Right Shoulder Angle:	301	 Right Elbow Angle:	177	Base Rotation Angle:	147	Left Shoulder Elbow27
+Right Shoulder Angle:	301	 Right Elbow Angle:	172	Base Rotation Angle:	149	Left Shoulder Elbow28
+Right Shoulder Angle:	301	 Right Elbow Angle:	171	Base Rotation Angle:	148	Left Shoulder Elbow27
+Right Shoulder Angle:	298	 Right Elbow Angle:	174	Base Rotation Angle:	146	Left Shoulder Elbow26
+Right Shoulder Angle:	299	 Right Elbow Angle:	165	Base Rotation Angle:	146	Left Shoulder Elbow26
+Right Shoulder Angle:	301	 Right Elbow Angle:	165	Base Rotation Angle:	146	Left Shoulder Elbow25
+Right Shoulder Angle:	299	 Right Elbow Angle:	165	Base Rotation Angle:	147	Left Shoulder Elbow25
+Right Shoulder Angle:	299	 Right Elbow Angle:	177	Base Rotation Angle:	149	Left Shoulder Elbow26
+Right Shoulder Angle:	299	 Right Elbow Angle:	160	Base Rotation Angle:	152	Left Shoulder Elbow29
+Right Shoulder Angle:	299	 Right Elbow Angle:	170	Base Rotation Angle:	158	Left Shoulder Elbow28
+Right Shoulder Angle:	299	 Right Elbow Angle:	168	Base Rotation Angle:	156	Left Shoulder Elbow30
+Right Shoulder Angle:	298	 Right Elbow Angle:	169	Base Rotation Angle:	156	Left Shoulder Elbow40
+Right Shoulder Angle:	299	 Right Elbow Angle:	172	Base Rotation Angle:	157	Left Shoulder Elbow40
+Right Shoulder Angle:	299	 Right Elbow Angle:	172	Base Rotation Angle:	159	Left Shoulder Elbow32
+Right Shoulder Angle:	299	 Right Elbow Angle:	173	Base Rotation Angle:	158	Left Shoulder Elbow38
+Right Shoulder Angle:	299	 Right Elbow Angle:	169	Base Rotation Angle:	159	Left Shoulder Elbow39
+Right Shoulder Angle:	299	 Right Elbow Angle:	173	Base Rotation Angle:	159	Left Shoulder Elbow27
+Right Shoulder Angle:	299	 Right Elbow Angle:	170	Base Rotation Angle:	160	Left Shoulder Elbow38
+Right Shoulder Angle:	299	 Right Elbow Angle:	173	Base Rotation Angle:	153	Left Shoulder Elbow29
+Right Shoulder Angle:	299	 Right Elbow Angle:	172	Base Rotation Angle:	149	Left Shoulder Elbow29
+Right Shoulder Angle:	299	 Right Elbow Angle:	173	Base Rotation Angle:	146	Left Shoulder Elbow33
+Right Shoulder Angle:	299	 Right Elbow Angle:	171	Base Rotation Angle:	147	Left Shoulder Elbow28
+Right Shoulder Angle:	302	 Right Elbow Angle:	171	Base Rotation Angle:	146	Left Shoulder Elbow40
+Right Shoulder Angle:	301	 Right Elbow Angle:	172	Base Rotation Angle:	147	Left Shoulder Elbow29
+Right Shoulder Angle:	300	 Right Elbow Angle:	169	Base Rotation Angle:	158	Left Shoulder Elbow43
+Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	155	Left Shoulder Elbow36
+Right Shoulder Angle:	300	 Right Elbow Angle:	172	Base Rotation Angle:	158	Left Shoulder Elbow24
+Right Shoulder Angle:	300	 Right Elbow Angle:	173	Base Rotation Angle:	158	Left Shoulder Elbow33
+Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	155	Left Shoulder Elbow25
+Right Shoulder Angle:	300	 Right Elbow Angle:	168	Base Rotation Angle:	158	Left Shoulder Elbow6
+Right Shoulder Angle:	300	 Right Elbow Angle:	174	Base Rotation Angle:	157	Left Shoulder Elbow29
+Right Shoulder Angle:	300	 Right Elbow Angle:	176	Base Rotation Angle:	157	Left Shoulder Elbow32
+Right Shoulder Angle:	299	 Right Elbow Angle:	173	Base Rotation Angle:	157	Left Shoulder Elbow45
+Right Shoulder Angle:	299	 Right Elbow Angle:	173	Base Rotation Angle:	156	Left Shoulder Elbow70
+Right Shoulder Angle:	299	 Right Elbow Angle:	168	Base Rotation Angle:	152	Left Shoulder Elbow97
+Right Shoulder Angle:	299	 Right Elbow Angle:	166	Base Rotation Angle:	152	Left Shoulder Elbow114
+Right Shoulder Angle:	299	 Right Elbow Angle:	163	Base Rotation Angle:	151	Left Shoulder Elbow125
+Right Shoulder Angle:	299	 Right Elbow Angle:	171	Base Rotation Angle:	151	Left Shoulder Elbow130
+Right Shoulder Angle:	300	 Right Elbow Angle:	172	Base Rotation Angle:	150	Left Shoulder Elbow131
+Right Shoulder Angle:	300	 Right Elbow Angle:	170	Base Rotation Angle:	150	Left Shoulder Elbow132
+Right Shoulder Angle:	300	 Right Elbow Angle:	171	Base Rotation Angle:	151	Left Shoulder Elbow128
+Right Shoulder Angle:	300	 Right Elbow Angle:	170	Base Rotation Angle:	151	Left Shoulder Elbow110
+Right Shoulder Angle:	300	 Right Elbow Angle:	169	Base Rotation Angle:	149	Left Shoulder Elbow92
+Right Shoulder Angle:	300	 Right Elbow Angle:	174	Base Rotation Angle:	149	Left Shoulder Elbow69
+Right Shoulder Angle:	302	 Right Elbow Angle:	168	Base Rotation Angle:	147	Left Shoulder Elbow54
+Right Shoulder Angle:	300	 Right Elbow Angle:	173	Base Rotation Angle:	148	Left Shoulder Elbow39
+Right Shoulder Angle:	299	 Right Elbow Angle:	171	Base Rotation Angle:	151	Left Shoulder Elbow30
+Right Shoulder Angle:	299	 Right Elbow Angle:	171	Base Rotation Angle:	152	Left Shoulder Elbow38
+Right Shoulder Angle:	299	 Right Elbow Angle:	170	Base Rotation Angle:	155	Left Shoulder Elbow39
+Right Shoulder Angle:	299	 Right Elbow Angle:	172	Base Rotation Angle:	156	Left Shoulder Elbow35
+Right Shoulder Angle:	299	 Right Elbow Angle:	175	Base Rotation Angle:	147	Left Shoulder Elbow31
+Right Shoulder Angle:	299	 Right Elbow Angle:	173	Base Rotation Angle:	138	Left Shoulder Elbow27
+Right Shoulder Angle:	301	 Right Elbow Angle:	172	Base Rotation Angle:	109	Left Shoulder Elbow26
+Right Shoulder Angle:	300	 Right Elbow Angle:	167	Base Rotation Angle:	105	Left Shoulder Elbow28
+Right Shoulder Angle:	302	 Right Elbow Angle:	169	Base Rotation Angle:	89	Left Shoulder Elbow30
+Right Shoulder Angle:	301	 Right Elbow Angle:	167	Base Rotation Angle:	58	Left Shoulder Elbow30
+Right Shoulder Angle:	300	 Right Elbow Angle:	166	Base Rotation Angle:	59	Left Shoulder Elbow42
+Right Shoulder Angle:	301	 Right Elbow Angle:	170	Base Rotation Angle:	60	Left Shoulder Elbow41
+Right Shoulder Angle:	301	 Right Elbow Angle:	165	Base Rotation Angle:	58	Left Shoulder Elbow43
+Right Shoulder Angle:	300	 Right Elbow Angle:	164	Base Rotation Angle:	59	Left Shoulder Elbow42
+Right Shoulder Angle:	300	 Right Elbow Angle:	164	Base Rotation Angle:	59	Left Shoulder Elbow36
+Right Shoulder Angle:	302	 Right Elbow Angle:	157	Base Rotation Angle:	60	Left Shoulder Elbow31
+Right Shoulder Angle:	302	 Right Elbow Angle:	140	Base Rotation Angle:	66	Left Shoulder Elbow36
+Right Shoulder Angle:	319	 Right Elbow Angle:	110	Base Rotation Angle:	64	Left Shoulder Elbow38
+Right Shoulder Angle:	321	 Right Elbow Angle:	91	Base Rotation Angle:	67	Left Shoulder Elbow33
+Right Shoulder Angle:	327	 Right Elbow Angle:	80	Base Rotation Angle:	67	Left Shoulder Elbow37
+Right Shoulder Angle:	329	 Right Elbow Angle:	67	Base Rotation Angle:	63	Left Shoulder Elbow37
+Right Shoulder Angle:	334	 Right Elbow Angle:	54	Base Rotation Angle:	64	Left Shoulder Elbow38
+Right Shoulder Angle:	340	 Right Elbow Angle:	42	Base Rotation Angle:	63	Left Shoulder Elbow39
+Right Shoulder Angle:	340	 Right Elbow Angle:	37	Base Rotation Angle:	69	Left Shoulder Elbow37
+Right Shoulder Angle:	341	 Right Elbow Angle:	33	Base Rotation Angle:	66	Left Shoulder Elbow39
+Right Shoulder Angle:	343	 Right Elbow Angle:	28	Base Rotation Angle:	66	Left Shoulder Elbow34
+Right Shoulder Angle:	345	 Right Elbow Angle:	19	Base Rotation Angle:	64	Left Shoulder Elbow42
+Right Shoulder Angle:	348	 Right Elbow Angle:	13	Base Rotation Angle:	64	Left Shoulder Elbow39
+Right Shoulder Angle:	351	 Right Elbow Angle:	9	Base Rotation Angle:	65	Left Shoulder Elbow46
+Right Shoulder Angle:	350	 Right Elbow Angle:	12	Base Rotation Angle:	62	Left Shoulder Elbow40
+Right Shoulder Angle:	358	 Right Elbow Angle:	5	Base Rotation Angle:	64	Left Shoulder Elbow40
+Right Shoulder Angle:	358	 Right Elbow Angle:	10	Base Rotation Angle:	64	Left Shoulder Elbow40
+Right Shoulder Angle:	371	 Right Elbow Angle:	10	Base Rotation Angle:	65	Left Shoulder Elbow50
+Right Shoulder Angle:	383	 Right Elbow Angle:	5	Base Rotation Angle:	59	Left Shoulder Elbow48
+Right Shoulder Angle:	390	 Right Elbow Angle:	14	Base Rotation Angle:	64	Left Shoulder Elbow45
+Right Shoulder Angle:	387	 Right Elbow Angle:	23	Base Rotation Angle:	63	Left Shoulder Elbow33
+Right Shoulder Angle:	388	 Right Elbow Angle:	31	Base Rotation Angle:	63	Left Shoulder Elbow47
+Right Shoulder Angle:	389	 Right Elbow Angle:	35	Base Rotation Angle:	60	Left Shoulder Elbow44
+Right Shoulder Angle:	385	 Right Elbow Angle:	40	Base Rotation Angle:	63	Left Shoulder Elbow38
+Right Shoulder Angle:	383	 Right Elbow Angle:	41	Base Rotation Angle:	81	Left Shoulder Elbow39
+Right Shoulder Angle:	378	 Right Elbow Angle:	44	Base Rotation Angle:	76	Left Shoulder Elbow31
+Right Shoulder Angle:	370	 Right Elbow Angle:	37	Base Rotation Angle:	75	Left Shoulder Elbow31
+Right Shoulder Angle:	371	 Right Elbow Angle:	28	Base Rotation Angle:	72	Left Shoulder Elbow42
+Right Shoulder Angle:	367	 Right Elbow Angle:	23	Base Rotation Angle:	70	Left Shoulder Elbow37
+Right Shoulder Angle:	357	 Right Elbow Angle:	18	Base Rotation Angle:	70	Left Shoulder Elbow36
+Right Shoulder Angle:	348	 Right Elbow Angle:	16	Base Rotation Angle:	73	Left Shoulder Elbow35
+Right Shoulder Angle:	337	 Right Elbow Angle:	17	Base Rotation Angle:	68	Left Shoulder Elbow38
+Right Shoulder Angle:	333	 Right Elbow Angle:	15	Base Rotation Angle:	68	Left Shoulder Elbow40
+Right Shoulder Angle:	326	 Right Elbow Angle:	19	Base Rotation Angle:	68	Left Shoulder Elbow33
+Right Shoulder Angle:	318	 Right Elbow Angle:	19	Base Rotation Angle:	67	Left Shoulder Elbow40
+Right Shoulder Angle:	314	 Right Elbow Angle:	21	Base Rotation Angle:	68	Left Shoulder Elbow39
+Right Shoulder Angle:	309	 Right Elbow Angle:	26	Base Rotation Angle:	68	Left Shoulder Elbow52
+Right Shoulder Angle:	302	 Right Elbow Angle:	31	Base Rotation Angle:	67	Left Shoulder Elbow37
+Right Shoulder Angle:	301	 Right Elbow Angle:	46	Base Rotation Angle:	68	Left Shoulder Elbow39
+Right Shoulder Angle:	299	 Right Elbow Angle:	66	Base Rotation Angle:	76	Left Shoulder Elbow36
+Right Shoulder Angle:	298	 Right Elbow Angle:	99	Base Rotation Angle:	76	Left Shoulder Elbow38
+Right Shoulder Angle:	300	 Right Elbow Angle:	130	Base Rotation Angle:	76	Left Shoulder Elbow46
+Right Shoulder Angle:	300	 Right Elbow Angle:	140	Base Rotation Angle:	78	Left Shoulder Elbow37
+Right Shoulder Angle:	295	 Right Elbow Angle:	132	Base Rotation Angle:	97	Left Shoulder Elbow9
+Right Shoulder Angle:	294	 Right Elbow Angle:	123	Base Rotation Angle:	115	Left Shoulder Elbow16
+Right Shoulder Angle:	293	 Right Elbow Angle:	114	Base Rotation Angle:	129	Left Shoulder Elbow39
+Right Shoulder Angle:	293	 Right Elbow Angle:	103	Base Rotation Angle:	142	Left Shoulder Elbow60
+Right Shoulder Angle:	293	 Right Elbow Angle:	91	Base Rotation Angle:	151	Left Shoulder Elbow78
+Right Shoulder Angle:	291	 Right Elbow Angle:	80	Base Rotation Angle:	157	Left Shoulder Elbow95
+Right Shoulder Angle:	290	 Right Elbow Angle:	70	Base Rotation Angle:	161	Left Shoulder Elbow108
+Right Shoulder Angle:	289	 Right Elbow Angle:	60	Base Rotation Angle:	164	Left Shoulder Elbow120
+Right Shoulder Angle:	288	 Right Elbow Angle:	52	Base Rotation Angle:	166	Left Shoulder Elbow129
+Right Shoulder Angle:	287	 Right Elbow Angle:	46	Base Rotation Angle:	167	Left Shoulder Elbow137
+Right Shoulder Angle:	285	 Right Elbow Angle:	40	Base Rotation Angle:	167	Left Shoulder Elbow143
+Right Shoulder Angle:	284	 Right Elbow Angle:	35	Base Rotation Angle:	167	Left Shoulder Elbow149
+Right Shoulder Angle:	282	 Right Elbow Angle:	31	Base Rotation Angle:	167	Left Shoulder Elbow153
+Right Shoulder Angle:	281	 Right Elbow Angle:	27	Base Rotation Angle:	167	Left Shoulder Elbow157
+Right Shoulder Angle:	281	 Right Elbow Angle:	24	Base Rotation Angle:	167	Left Shoulder Elbow160
+Right Shoulder Angle:	280	 Right Elbow Angle:	21	Base Rotation Angle:	166	Left Shoulder Elbow162
+Right Shoulder Angle:	279	 Right Elbow Angle:	19	Base Rotation Angle:	139	Left Shoulder Elbow92
+Right Shoulder Angle:	279	 Right Elbow Angle:	17	Base Rotation Angle:	146	Left Shoulder Elbow105
+Right Shoulder Angle:	279	 Right Elbow Angle:	15	Base Rotation Angle:	151	Left Shoulder Elbow117
+Right Shoulder Angle:	279	 Right Elbow Angle:	14	Base Rotation Angle:	155	Left Shoulder Elbow126
+Right Shoulder Angle:	279	 Right Elbow Angle:	12	Base Rotation Angle:	158	Left Shoulder Elbow134
+Right Shoulder Angle:	279	 Right Elbow Angle:	11	Base Rotation Angle:	161	Left Shoulder Elbow141
+Right Shoulder Angle:	279	 Right Elbow Angle:	10	Base Rotation Angle:	163	Left Shoulder Elbow147
+Right Shoulder Angle:	279	 Right Elbow Angle:	9	Base Rotation Angle:	164	Left Shoulder Elbow151
+Right Shoulder Angle:	279	 Right Elbow Angle:	8	Base Rotation Angle:	166	Left Shoulder Elbow155
+Right Shoulder Angle:	279	 Right Elbow Angle:	7	Base Rotation Angle:	167	Left Shoulder Elbow159
+Right Shoulder Angle:	279	 Right Elbow Angle:	6	Base Rotation Angle:	168	Left Shoulder Elbow161
+Right Shoulder Angle:	279	 Right Elbow Angle:	5	Base Rotation Angle:	168	Left Shoulder Elbow164
+Right Shoulder Angle:	280	 Right Elbow Angle:	5	Base Rotation Angle:	169	Left Shoulder Elbow166
+Right Shoulder Angle:	280	 Right Elbow Angle:	4	Base Rotation Angle:	170	Left Shoulder Elbow168
+Right Shoulder Angle:	280	 Right Elbow Angle:	4	Base Rotation Angle:	170	Left Shoulder Elbow169
+Right Shoulder Angle:	280	 Right Elbow Angle:	3	Base Rotation Angle:	170	Left Shoulder Elbow170
+Right Shoulder Angle:	280	 Right Elbow Angle:	3	Base Rotation Angle:	171	Left Shoulder Elbow171
+Right Shoulder Angle:	280	 Right Elbow Angle:	3	Base Rotation Angle:	171	Left Shoulder Elbow172
+Right Shoulder Angle:	280	 Right Elbow Angle:	2	Base Rotation Angle:	171	Left Shoulder Elbow173
+Right Shoulder Angle:	280	 Right Elbow Angle:	2	Base Rotation Angle:	171	Left Shoulder Elbow174
+Right Shoulder Angle:	279	 Right Elbow Angle:	2	Base Rotation Angle:	171	Left Shoulder Elbow175
+Right Shoulder Angle:	279	 Right Elbow Angle:	2	Base Rotation Angle:	171	Left Shoulder Elbow175
+Right Shoulder Angle:	280	 Right Elbow Angle:	1	Base Rotation Angle:	171	Left Shoulder Elbow176
+Right Shoulder Angle:	280	 Right Elbow Angle:	1	Base Rotation Angle:	171	Left Shoulder Elbow176
+Right Shoulder Angle:	280	 Right Elbow Angle:	1	Base Rotation Angle:	171	Left Shoulder Elbow176
+Right Shoulder Angle:	280	 Right Elbow Angle:	1	Base Rotation Angle:	145	Left Shoulder Elbow164
+Right Shoulder Angle:	280	 Right Elbow Angle:	1	Base Rotation Angle:	127	Left Shoulder Elbow150
+Right Shoulder Angle:	280	 Right Elbow Angle:	1	Base Rotation Angle:	113	Left Shoulder Elbow136
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	125	Left Shoulder Elbow149
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	135	Left Shoulder Elbow158
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	142	Left Shoulder Elbow165
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	148	Left Shoulder Elbow171
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	153	Left Shoulder Elbow175
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	156	Left Shoulder Elbow177
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	159	Left Shoulder Elbow179
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	161	Left Shoulder Elbow178
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	163	Left Shoulder Elbow177
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	165	Left Shoulder Elbow176
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	166	Left Shoulder Elbow176
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	167	Left Shoulder Elbow175
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	141	Left Shoulder Elbow164
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	147	Left Shoulder Elbow170
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	135	Left Shoulder Elbow155
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	126	Left Shoulder Elbow109
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	134	Left Shoulder Elbow109
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	138	Left Shoulder Elbow111
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	142	Left Shoulder Elbow112
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	144	Left Shoulder Elbow113
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	144	Left Shoulder Elbow115
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	142	Left Shoulder Elbow120
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	141	Left Shoulder Elbow123
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	139	Left Shoulder Elbow125
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	139	Left Shoulder Elbow119
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	140	Left Shoulder Elbow105
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	141	Left Shoulder Elbow82
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	142	Left Shoulder Elbow59
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	143	Left Shoulder Elbow42
+Right Shoulder Angle:	278	 Right Elbow Angle:	0	Base Rotation Angle:	142	Left Shoulder Elbow32
+Right Shoulder Angle:	278	 Right Elbow Angle:	0	Base Rotation Angle:	141	Left Shoulder Elbow28
+Right Shoulder Angle:	278	 Right Elbow Angle:	0	Base Rotation Angle:	141	Left Shoulder Elbow26
+Right Shoulder Angle:	278	 Right Elbow Angle:	0	Base Rotation Angle:	141	Left Shoulder Elbow24
+Right Shoulder Angle:	278	 Right Elbow Angle:	0	Base Rotation Angle:	140	Left Shoulder Elbow23
+Right Shoulder Angle:	278	 Right Elbow Angle:	0	Base Rotation Angle:	138	Left Shoulder Elbow24
+Right Shoulder Angle:	278	 Right Elbow Angle:	0	Base Rotation Angle:	133	Left Shoulder Elbow25
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	125	Left Shoulder Elbow25
+Right Shoulder Angle:	278	 Right Elbow Angle:	0	Base Rotation Angle:	114	Left Shoulder Elbow25
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	104	Left Shoulder Elbow26
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	96	Left Shoulder Elbow27
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	89	Left Shoulder Elbow27
+Right Shoulder Angle:	281	 Right Elbow Angle:	0	Base Rotation Angle:	82	Left Shoulder Elbow28
+Right Shoulder Angle:	281	 Right Elbow Angle:	0	Base Rotation Angle:	78	Left Shoulder Elbow29
+Right Shoulder Angle:	281	 Right Elbow Angle:	0	Base Rotation Angle:	75	Left Shoulder Elbow29
+Right Shoulder Angle:	282	 Right Elbow Angle:	0	Base Rotation Angle:	77	Left Shoulder Elbow28
+Right Shoulder Angle:	282	 Right Elbow Angle:	0	Base Rotation Angle:	85	Left Shoulder Elbow26
+Right Shoulder Angle:	282	 Right Elbow Angle:	0	Base Rotation Angle:	97	Left Shoulder Elbow26
+Right Shoulder Angle:	282	 Right Elbow Angle:	0	Base Rotation Angle:	110	Left Shoulder Elbow24
+Right Shoulder Angle:	281	 Right Elbow Angle:	0	Base Rotation Angle:	121	Left Shoulder Elbow22
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	130	Left Shoulder Elbow22
+Right Shoulder Angle:	280	 Right Elbow Angle:	0	Base Rotation Angle:	138	Left Shoulder Elbow20
+Right Shoulder Angle:	279	 Right Elbow Angle:	0	Base Rotation Angle:	143	Left Shoulder Elbow19
+Right Shoulder Angle:	278	 Right Elbow Angle:	0	Base Rotation Angle:	148	Left Shoulder Elbow21
+Right Shoulder Angle:	277	 Right Elbow Angle:	0	Base Rotation Angle:	151	Left Shoulder Elbow23
+Right Shoulder Angle:	277	 Right Elbow Angle:	0	Base Rotation Angle:	152	Left Shoulder Elbow24
+Right Shoulder Angle:	276	 Right Elbow Angle:	0	Base Rotation Angle:	153	Left Shoulder Elbow23
+Right Shoulder Angle:	298	 Right Elbow Angle:	1	Base Rotation Angle:	155	Left Shoulder Elbow23
+Right Shoulder Angle:	311	 Right Elbow Angle:	18	Base Rotation Angle:	156	Left Shoulder Elbow23
+Right Shoulder Angle:	321	 Right Elbow Angle:	40	Base Rotation Angle:	156	Left Shoulder Elbow23
+Right Shoulder Angle:	330	 Right Elbow Angle:	50	Base Rotation Angle:	156	Left Shoulder Elbow23
+Right Shoulder Angle:	339	 Right Elbow Angle:	48	Base Rotation Angle:	155	Left Shoulder Elbow22
+Right Shoulder Angle:	348	 Right Elbow Angle:	42	Base Rotation Angle:	154	Left Shoulder Elbow21
+Right Shoulder Angle:	368	 Right Elbow Angle:	21	Base Rotation Angle:	154	Left Shoulder Elbow21
+Right Shoulder Angle:	369	 Right Elbow Angle:	18	Base Rotation Angle:	154	Left Shoulder Elbow20
+Right Shoulder Angle:	369	 Right Elbow Angle:	15	Base Rotation Angle:	155	Left Shoulder Elbow19
+Right Shoulder Angle:	370	 Right Elbow Angle:	13	Base Rotation Angle:	155	Left Shoulder Elbow18
+Right Shoulder Angle:	369	 Right Elbow Angle:	11	Base Rotation Angle:	155	Left Shoulder Elbow18
+Right Shoulder Angle:	368	 Right Elbow Angle:	10	Base Rotation Angle:	155	Left Shoulder Elbow17
+Right Shoulder Angle:	365	 Right Elbow Angle:	11	Base Rotation Angle:	154	Left Shoulder Elbow17
+Right Shoulder Angle:	362	 Right Elbow Angle:	11	Base Rotation Angle:	154	Left Shoulder Elbow18
+Right Shoulder Angle:	356	 Right Elbow Angle:	13	Base Rotation Angle:	153	Left Shoulder Elbow18
+Right Shoulder Angle:	350	 Right Elbow Angle:	13	Base Rotation Angle:	152	Left Shoulder Elbow18
+Right Shoulder Angle:	343	 Right Elbow Angle:	13	Base Rotation Angle:	153	Left Shoulder Elbow18
+Right Shoulder Angle:	337	 Right Elbow Angle:	13	Base Rotation Angle:	153	Left Shoulder Elbow18
+Right Shoulder Angle:	331	 Right Elbow Angle:	14	Base Rotation Angle:	153	Left Shoulder Elbow18
+Right Shoulder Angle:	325	 Right Elbow Angle:	14	Base Rotation Angle:	153	Left Shoulder Elbow19
+Right Shoulder Angle:	319	 Right Elbow Angle:	15	Base Rotation Angle:	154	Left Shoulder Elbow21
+Right Shoulder Angle:	315	 Right Elbow Angle:	16	Base Rotation Angle:	156	Left Shoulder Elbow20
+Right Shoulder Angle:	312	 Right Elbow Angle:	17	Base Rotation Angle:	156	Left Shoulder Elbow20
+Right Shoulder Angle:	308	 Right Elbow Angle:	18	Base Rotation Angle:	154	Left Shoulder Elbow21
+Right Shoulder Angle:	304	 Right Elbow Angle:	21	Base Rotation Angle:	154	Left Shoulder Elbow21
+Right Shoulder Angle:	301	 Right Elbow Angle:	25	Base Rotation Angle:	155	Left Shoulder Elbow21
+Right Shoulder Angle:	299	 Right Elbow Angle:	34	Base Rotation Angle:	154	Left Shoulder Elbow21
+Right Shoulder Angle:	297	 Right Elbow Angle:	51	Base Rotation Angle:	155	Left Shoulder Elbow21
+Right Shoulder Angle:	295	 Right Elbow Angle:	71	Base Rotation Angle:	155	Left Shoulder Elbow20
+Right Shoulder Angle:	297	 Right Elbow Angle:	92	Base Rotation Angle:	155	Left Shoulder Elbow20
+Right Shoulder Angle:	296	 Right Elbow Angle:	105	Base Rotation Angle:	155	Left Shoulder Elbow19
+Right Shoulder Angle:	295	 Right Elbow Angle:	111	Base Rotation Angle:	155	Left Shoulder Elbow19
+Right Shoulder Angle:	294	 Right Elbow Angle:	113	Base Rotation Angle:	155	Left Shoulder Elbow18
+Right Shoulder Angle:	294	 Right Elbow Angle:	113	Base Rotation Angle:	155	Left Shoulder Elbow19
+Right Shoulder Angle:	294	 Right Elbow Angle:	113	Base Rotation Angle:	155	Left Shoulder Elbow18
+Right Shoulder Angle:	293	 Right Elbow Angle:	112	Base Rotation Angle:	155	Left Shoulder Elbow17
+Right Shoulder Angle:	295	 Right Elbow Angle:	112	Base Rotation Angle:	155	Left Shoulder Elbow16
+Right Shoulder Angle:	295	 Right Elbow Angle:	110	Base Rotation Angle:	155	Left Shoulder Elbow16
+Right Shoulder Angle:	295	 Right Elbow Angle:	108	Base Rotation Angle:	155	Left Shoulder Elbow15
+Right Shoulder Angle:	296	 Right Elbow Angle:	104	Base Rotation Angle:	156	Left Shoulder Elbow16
+Right Shoulder Angle:	300	 Right Elbow Angle:	98	Base Rotation Angle:	156	Left Shoulder Elbow15
+Right Shoulder Angle:	308	 Right Elbow Angle:	89	Base Rotation Angle:	156	Left Shoulder Elbow15
+Right Shoulder Angle:	322	 Right Elbow Angle:	75	Base Rotation Angle:	156	Left Shoulder Elbow16
+Right Shoulder Angle:	339	 Right Elbow Angle:	58	Base Rotation Angle:	157	Left Shoulder Elbow16
+Right Shoulder Angle:	353	 Right Elbow Angle:	42	Base Rotation Angle:	157	Left Shoulder Elbow17
+Right Shoulder Angle:	366	 Right Elbow Angle:	27	Base Rotation Angle:	156	Left Shoulder Elbow17
+Right Shoulder Angle:	375	 Right Elbow Angle:	16	Base Rotation Angle:	156	Left Shoulder Elbow16
+Right Shoulder Angle:	380	 Right Elbow Angle:	11	Base Rotation Angle:	156	Left Shoulder Elbow15
+Right Shoulder Angle:	382	 Right Elbow Angle:	10	Base Rotation Angle:	156	Left Shoulder Elbow13
+Right Shoulder Angle:	380	 Right Elbow Angle:	13	Base Rotation Angle:	155	Left Shoulder Elbow12
+Right Shoulder Angle:	377	 Right Elbow Angle:	20	Base Rotation Angle:	155	Left Shoulder Elbow11
+Right Shoulder Angle:	370	 Right Elbow Angle:	33	Base Rotation Angle:	155	Left Shoulder Elbow11
+Right Shoulder Angle:	360	 Right Elbow Angle:	49	Base Rotation Angle:	154	Left Shoulder Elbow12
+Right Shoulder Angle:	349	 Right Elbow Angle:	63	Base Rotation Angle:	155	Left Shoulder Elbow13
+Right Shoulder Angle:	338	 Right Elbow Angle:	76	Base Rotation Angle:	156	Left Shoulder Elbow15
+Right Shoulder Angle:	326	 Right Elbow Angle:	90	Base Rotation Angle:	156	Left Shoulder Elbow16
+Right Shoulder Angle:	316	 Right Elbow Angle:	104	Base Rotation Angle:	155	Left Shoulder Elbow16
+Right Shoulder Angle:	308	 Right Elbow Angle:	120	Base Rotation Angle:	155	Left Shoulder Elbow14
+Right Shoulder Angle:	304	 Right Elbow Angle:	134	Base Rotation Angle:	155	Left Shoulder Elbow14
+Right Shoulder Angle:	302	 Right Elbow Angle:	146	Base Rotation Angle:	155	Left Shoulder Elbow13
+Right Shoulder Angle:	301	 Right Elbow Angle:	154	Base Rotation Angle:	156	Left Shoulder Elbow11
+Right Shoulder Angle:	301	 Right Elbow Angle:	157	Base Rotation Angle:	157	Left Shoulder Elbow10
+Right Shoulder Angle:	301	 Right Elbow Angle:	157	Base Rotation Angle:	158	Left Shoulder Elbow10
+Right Shoulder Angle:	301	 Right Elbow Angle:	159	Base Rotation Angle:	159	Left Shoulder Elbow9
+Right Shoulder Angle:	300	 Right Elbow Angle:	159	Base Rotation Angle:	160	Left Shoulder Elbow8
+Right Shoulder Angle:	299	 Right Elbow Angle:	158	Base Rotation Angle:	147	Left Shoulder Elbow9
+Right Shoulder Angle:	301	 Right Elbow Angle:	151	Base Rotation Angle:	151	Left Shoulder Elbow2
+Right Shoulder Angle:	304	 Right Elbow Angle:	139	Base Rotation Angle:	154	Left Shoulder Elbow33
+Right Shoulder Angle:	304	 Right Elbow Angle:	126	Base Rotation Angle:	156	Left Shoulder Elbow66
+Right Shoulder Angle:	300	 Right Elbow Angle:	115	Base Rotation Angle:	158	Left Shoulder Elbow76
+Right Shoulder Angle:	294	 Right Elbow Angle:	108	Base Rotation Angle:	159	Left Shoulder Elbow81
+Right Shoulder Angle:	294	 Right Elbow Angle:	95	Base Rotation Angle:	159	Left Shoulder Elbow87
+Right Shoulder Angle:	293	 Right Elbow Angle:	74	Base Rotation Angle:	154	Left Shoulder Elbow93
+Right Shoulder Angle:	293	 Right Elbow Angle:	69	Base Rotation Angle:	154	Left Shoulder Elbow92
+Right Shoulder Angle:	291	 Right Elbow Angle:	62	Base Rotation Angle:	155	Left Shoulder Elbow107
+Right Shoulder Angle:	288	 Right Elbow Angle:	47	Base Rotation Angle:	158	Left Shoulder Elbow120
+Right Shoulder Angle:	285	 Right Elbow Angle:	37	Base Rotation Angle:	160	Left Shoulder Elbow132
+Right Shoulder Angle:	283	 Right Elbow Angle:	30	Base Rotation Angle:	161	Left Shoulder Elbow140
+Right Shoulder Angle:	281	 Right Elbow Angle:	25	Base Rotation Angle:	163	Left Shoulder Elbow148
+Right Shoulder Angle:	279	 Right Elbow Angle:	21	Base Rotation Angle:	164	Left Shoulder Elbow153
+Right Shoulder Angle:	278	 Right Elbow Angle:	18	Base Rotation Angle:	165	Left Shoulder Elbow158
+Right Shoulder Angle:	277	 Right Elbow Angle:	16	Base Rotation Angle:	165	Left Shoulder Elbow161
+Right Shoulder Angle:	276	 Right Elbow Angle:	14	Base Rotation Angle:	166	Left Shoulder Elbow164
+Right Shoulder Angle:	275	 Right Elbow Angle:	13	Base Rotation Angle:	166	Left Shoulder Elbow166
+Right Shoulder Angle:	275	 Right Elbow Angle:	11	Base Rotation Angle:	167	Left Shoulder Elbow168
+Right Shoulder Angle:	274	 Right Elbow Angle:	10	Base Rotation Angle:	167	Left Shoulder Elbow170
+Right Shoulder Angle:	274	 Right Elbow Angle:	9	Base Rotation Angle:	167	Left Shoulder Elbow171
+Right Shoulder Angle:	273	 Right Elbow Angle:	8	Base Rotation Angle:	167	Left Shoulder Elbow172
