@@ -244,7 +244,7 @@ void draw()
       
       
       //Removed the Recording Number tab
-      output.println("Right Shoulder Angle:"+"\t"+shiny[0]+"\t"+" Right Elbow Angle:"+"\t"+shiny[1]+"\t"+"Base Rotation Angle:"+"\t"+shiny[2]);
+      output.println("Right Shoulder Angle:"+"\t"+shiny[0]+"\t"+" Right Elbow Angle:"+"\t"+shiny[1]+"\t"+"Base Rotation Angle:"+"\t"+shiny[2]+"\t"+"Left Shoulder Elbow Angle: "+shiny[3]);
       output.flush();
     }
       
