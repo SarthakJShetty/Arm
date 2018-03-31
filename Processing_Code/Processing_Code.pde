@@ -5,8 +5,8 @@ Serial port;
 
 //Old will comprise of the older angles
 //Shiny will comprise of the newer angles, and the values that will be sent to the Arduino
-      int old[]={0,0,0};
-      int shiny[]={0,0,0};
+      int old[]={0,0,0,0};
+      int shiny[]={0,0,0,0};
 
 SimpleOpenNI  context;
 
@@ -146,11 +146,13 @@ void draw()
       shiny[0]=int(rightShoulderAngle);
       shiny[1]=int(rightElbowAngle);
       shiny[2]=int(leftShoulderAngle);
+      shiny[3]=int(leftElbowAngle);
      
      //Printing the old values of the angle
      text("\n \n \n \n \n"+"Old Shoulder Angle"+int(old[0]),30,30);
      text("\n \n \n \n \n \n"+"Old Elbow Angle"+int(old[1]),30,30);
      text("\n \n \n \n \n \n \n"+"Old Base Angle"+int(old[2]),30,30);
+     text("\n \n \n \n \n \n \n \n"+"Gripper Angle"+int(old[3],30,30);
      
      
      //Declaring a variable to output the required data
@@ -203,7 +205,17 @@ void draw()
       out[2]=byte(shiny[2]);
       old[2]=shiny[2];
       }
-      
+      //Base angle checker
+      if((shiny[3]>=old[3])&&(((shiny[3]-old[3])<=10)&&((shiny[3]-old[3])>=0))){
+      out[3]=byte(old[3]);
+      }
+      else if(shiny[3]<old[3]&&(((old[3]-shiny[3])<=10)&&(old[3]-shiny[3]>=0))){
+      out[3]=byte(old[3]);
+      }
+      else if(((shiny[3]<=old[3])||(shiny[3]>=old[3]))&&((shiny[3]-old[3])>10||((old[3]-shiny[3])>10))){
+      out[3]=byte(shiny[3]);
+      old[3]=shiny[3];
+      }      
       /*Volatile Section:
       Code has not been fully developed.*/
       //This portion of the code is dedicated to the collection and analysis of data
