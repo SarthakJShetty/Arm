@@ -79,5 +79,12 @@ This project was developed from an existing [Instructable](http://www.instructab
 - Formatted the data logger, removed the Recording Number tab.
 - New "dev" branch to be added.
 
+#### 01/04/2018
+- The code works on an actual robotic arm. Video will be up soon.
+- The Gripper has been successfully integrated.
+- Data logger now features Gripper Angle (Left elbow angle) as well.
+- An example of the UserReadings have been provided as well.
+- The readings are in csv format, for easy analysis and data manipulation.
+
 ##### Note:
 The older version of the repository was deleted due to a lot of unresolved mergin issues. This repository will be updated henceforth.
