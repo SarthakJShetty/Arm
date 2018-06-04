@@ -41,6 +41,7 @@ This project was developed from an existing [Instructable](http://www.instructab
 ```
 ##### Wiring Diagram:
 
+![Fritzing Diagram](https://raw.githubusercontent.com/SarthakJShetty/Arm/master/Circuit_Diagram/Circuit_Layout.jpg)
 
 ##### Instructions
 
@@ -89,6 +90,9 @@ This project was developed from an existing [Instructable](http://www.instructab
 - Data logger now features Gripper Angle (Left elbow angle) as well.
 - An example of the UserReadings have been provided as well.
 - The readings are in csv format, for easy analysis and data manipulation.
+
+#### 06/04/2018
+- Adding circuit diagram (finally) here.
 
 ##### Note:
 The older version of the repository was deleted due to a lot of unresolved mergin issues. This repository will be updated henceforth.
