@@ -95,4 +95,4 @@ This project was developed from an existing [Instructable](http://www.instructab
 - Adding circuit diagram (finally) here.
 
 ##### Note:
-The older version of the repository was deleted due to a lot of unresolved mergin issues. This repository will be updated henceforth.
+The older version of the repository was deleted due to a lot of unresolved merging issues. This repository will be updated henceforth.
