@@ -39,9 +39,12 @@ This project was developed from an existing [Instructable](http://www.instructab
 ```
 	git clone http://github.com/SarthakJShetty/Arm.git
 ```
+##### Wiring Diagram:
+
+
 ##### Instructions
 
-- Connect the Arduino and setup the system as shown (to be added).
+- Connect the Arduino and setup the system as shown in the Fritzing Diagram.
 - Open the Arduino Code (Arduino_Code.ino) and upload it to the board.
 - Open the Processing Code (Processing_Code.pde) and click the "Play" button on the upper left corner.
 - Wait for about 20 seconds while the Kinect warms up. You will be alerted by a new Processing Window on your screen.
