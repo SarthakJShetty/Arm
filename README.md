@@ -93,6 +93,7 @@ This project was developed from an existing [Instructable](http://www.instructab
 
 #### 06/04/2018
 - Adding circuit diagram (finally) here.
+- Processing_Code can now display gripper angles, and gripper values will be sent to the Arduino as well.
 
 ##### Note:
 The older version of the repository was deleted due to a lot of unresolved merging issues. This repository will be updated henceforth.
