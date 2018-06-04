@@ -194,7 +194,7 @@ void draw()
       old[1]=shiny[1];
       }
       
-      /*Base angle checker
+     // Base angle checker
       if((shiny[2]>=old[2])&&(((shiny[2]-old[2])<=10)&&((shiny[2]-old[2])>=0))){
       out[2]=byte(old[2]);
       }
@@ -204,8 +204,8 @@ void draw()
       else if(((shiny[2]<=old[2])||(shiny[2]>=old[2]))&&((shiny[2]-old[2])>10||((old[2]-shiny[2])>10))){
       out[2]=byte(shiny[2]);
       old[2]=shiny[2];
-      }*/
-      out[2]=byte(shiny[2]);
+      }
+      //out[2]=byte(shiny[2]);
       //Gripper Angle checker
       if((shiny[3]>=old[3])&&(((shiny[3]-old[3])<=10)&&((shiny[3]-old[3])>=0))){
       out[3]=byte(old[3]);
@@ -250,7 +250,7 @@ void draw()
       
       
       //Here lies the unused byte, for the use of a gripper
-      //out[3] = byte(leftElbowAngle);
+      out[3] = byte(leftElbowAngle);
       
       //sending data
       port.write(out); 
