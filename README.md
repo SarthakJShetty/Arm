@@ -5,7 +5,8 @@
 This project comprises of a four degrees of freedom robotic arm, that is controlled by human gestures.
 
 ##### Note:
-This project is in the process of being developed, the code is neither stable or final.
+- This project is in the process of being developed, the code is neither stable or final.
+- Project report can be viewed [here](https://github.com/SarthakJShetty/Arm/tree/master/Project_Report), for documentation purposes.
 
 ### Credits
 This project was developed from an existing [Instructable](http://www.instructables.com/id/Kinect-Controlled-Arms/) as a base. The Instructable dealt with the development of a humanoid robot, comprising of 4 servo motors, 2 for each arm. The code was modified for a robotic arm. Some portions of the project retain the nascency, especially the Processing code.
@@ -94,6 +95,9 @@ This project was developed from an existing [Instructable](http://www.instructab
 #### 06/04/2018
 - Adding circuit diagram (finally) here.
 - Processing_Code can now display gripper angles, and gripper values will be sent to the Arduino as well.
+
+#### 06/06/2018
+-Project report has been added here, to improve documentation.
 
 ##### Note:
 The older version of the repository was deleted due to a lot of unresolved merging issues. This repository will be updated henceforth.
