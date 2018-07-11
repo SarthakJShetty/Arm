@@ -40,7 +40,7 @@ This project was developed from an existing [Instructable](http://www.instructab
 
 ##### Clone the repository
 
-```	git clone http://github.com/SarthakJShetty/Arm.git```
+```git clone http://github.com/SarthakJShetty/Arm.git```
 
 ##### Wiring Diagram:
 
@@ -48,9 +48,9 @@ This project was developed from an existing [Instructable](http://www.instructab
 
 ##### Instructions
 
-- Connect the Arduino and setup the system as shown in the Fritzing Diagram.
-- Open the Arduino Code (Arduino_Code.ino) and upload it to the board.
-- Open the Processing Code (Processing_Code.pde) and click the "Play" button on the upper left corner.
+- Connect the Arduino and setup the system as shown in the <a title="Fritzing Diagram" href="https://github.com/SarthakJShetty/Arm/tree/master/Circuit_Diagram/Circuit_Layout.jpg" target="_blank">Fritzing Diagram</a>.
+- Open the <a title="Arduino Code" href="https://github.com/SarthakJShetty/Arm/blob/master/Arduino_Code/Arduino_Code.ino" target="_blank">Arduino Code</a> and upload it to the board.
+- Open the <a title="Processing Code" href="https://github.com/SarthakJShetty/Arm/blob/master/Processing_Code/Processing_Code.pde" target="_blank">Processing Code</a> (Processing_Code.pde) and click the "Play" button on the upper left corner.
 - Wait for about 20 seconds while the Kinect warms up. You will be alerted by a new Processing Window on your screen.
 - Stand in front of the sensor and make some gestures to get the sensor to recognize you.
 - Once the color of your silhoutte has changed, wait for another 30 seconds for the skeletal data to be projected.
