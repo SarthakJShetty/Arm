@@ -39,8 +39,9 @@ This project was developed from an existing [Instructable](http://www.instructab
 #### Steps:
 
 ##### Clone the repository
-```	git clone http://github.com/SarthakJShetty/Arm.git
-```
+
+```	git clone http://github.com/SarthakJShetty/Arm.git```
+
 ##### Wiring Diagram:
 
 ![Fritzing Diagram](https://raw.githubusercontent.com/SarthakJShetty/Arm/master/Circuit_Diagram/Circuit_Layout.jpg)
